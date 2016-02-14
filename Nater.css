@@ -1,0 +1,63 @@
+﻿body {
+	font-size: 150%;
+	margin: 10%;
+	max-width: 800px;
+}
+
+a:link {
+	color: FireBrick;
+}
+
+a:visited {
+	color: #707070;
+}
+
+a:hover {
+	color: Black;
+}
+
+a:active {
+	color: FireBrick;
+}
+
+blockquote {
+    font-style: italic;
+    font-family: Calibri, Futura, sans-serif;
+    color: #707070;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Calibri, Futura, sans-serif;
+}
+
+h1 {
+	font-size: 300%;
+	font-weight: normal;
+}
+
+h2 {
+	color: FireBrick;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+h3 {
+	color: #707070;
+}
+
+li p {
+	margin: -0.1%;
+}
+
+p {
+	font-family: serif;
+}
+
+.subhead {
+	margin-top: -3%;
+}
+
+.contact {
+	color: #404040;
+	margin-top: -5%;
+}
