@@ -1,4 +1,4 @@
-﻿body {
+wbody {
     margin: 10%;
     max-width: 800px;
 }
@@ -50,6 +50,7 @@ li p {
 
 p {
     font-family: serif;
+    font-size: larger;
 }
 
 footer cite {
