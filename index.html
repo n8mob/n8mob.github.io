@@ -3,7 +3,7 @@ layout: default
 title: Hi, I'm n8!
 ---
 <body>
-  <h1>The Index Page for My New Blog Thing</h1>
+  <h1>The Index Page for {{ site.title }}</h1>
   <h2>Yet another unfinished blogging project.</h2>
   <p>
     My plan? Update this thing once-a-week or more.
@@ -12,6 +12,13 @@ title: Hi, I'm n8!
   <p>
     Well, here it is, several months later, and about the only thing here is {% raw %} {{ page.title }} {% endraw %} (that's &ldquo;{{ page.title}}&rdquo; to you and me...)
   </p>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
   <a href="2010/LunchDuty.html">
     <h2>Lunch Duty</h2>
     <p>About when I worked in the lunch room during elementry school</p>

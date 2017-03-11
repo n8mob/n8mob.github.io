@@ -1,68 +1,73 @@
 body {
-    margin: 10%;
-    max-width: 800px;
+  margin: 10%;
+  max-width: 800px;
 }
 
 a:link {
-    color: FireBrick;
+  color: FireBrick;
 }
 
 a:visited {
-    color: #707070;
+  color: Brown;
 }
 
 a:hover {
-    color: Black;
+  color: Black;
 }
 
 a:active {
-    color: FireBrick;
+  color: FireBrick;
 }
 
 blockquote {
-    font-style: italic;
-    font-family: Futura, Calibri, Ubuntu, sans-serif;
-    color: #707070;
+  font-style: italic;
+  font-family: Futura, Calibri, Ubuntu, sans-serif;
+  color: #707070;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Futura, Calibri, Ubuntu, sans-serif;
+  font-family: Futura, Calibri, Ubuntu, sans-serif;
 }
 
 h1 {
-    font-size: 300%;
-    font-weight: normal;
+  font-size: 300%;
+  font-weight: normal;
 }
 
 h2 {
-    color: FireBrick;
-    font-size: 150%;
-    font-weight: normal;
+  color: FireBrick;
+  font-size: 150%;
+  font-weight: normal;
 }
 
 h3 {
-    color: #707070;
+  color: #707070;
 }
 
 li p {
-    margin: -0.1%;
+  margin: -0.1%;
 }
 
 p {
-    font-family: 'Bookman Old Style', serif;
-    font-size: larger;
+  font-family: 'Bookman Old Style', serif;
+  font-size: larger;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
 }
 
 footer cite {
-    font-size: 70%;
-    margin: 20px;
+  font-size: 70%;
+  margin: 20px;
 }
 
 .subhead {
-    margin-top: -3%;
+  margin-top: -3%;
 }
 
 .contact {
-    color: #404040;
-    margin-top: -5%;
+  color: #404040;
+  margin-top: -5%;
 }
