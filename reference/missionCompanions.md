@@ -2,7 +2,7 @@
 layout: reference
 title: Mission Companions
 ---
-# Mission Companions
+# {{ page.title }}
 
 A list of all my mission companions while I was serving as a full-time missionary in the Alabama Birmingham Mission of The Church of Jesus Christ of Latter-Day Saints
 ## Missionary Training Center
