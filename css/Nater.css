@@ -32,6 +32,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 300%;
   font-weight: normal;
+  text-transform: uppercase;
+  max-width: 340px;
 }
 
 h2 {
@@ -54,14 +56,26 @@ p {
   letter-spacing: 0.5px;
 }
 
+footer cite {
+  font-size: 70%;
+  margin: 20px;
+}
+
 footer {
   display: flex;
   justify-content: space-between;
 }
 
-footer cite {
-  font-size: 70%;
-  margin: 20px;
+footer h2 {
+  text-transform: uppercase
+}
+
+.nav-prev {
+  margin-inline-end: 15px;
+}
+
+.nav-next {
+  margin-inline-start: 15px;
 }
 
 .subhead {
