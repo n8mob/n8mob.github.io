@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>
+  {{ page.title }}
+<h2>
+  {{ page.date | date: "%A, %0d %B" }}, <a href='/{{ page.date | date: "%Y" }}'>{{ page.date | date: "%Y" }}</a>
+</h2>
+{{ content }}
+<h2>/// TODO \\\ PREV NEXT</h2>
