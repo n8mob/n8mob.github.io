@@ -18,7 +18,7 @@ title: Hi, I'm n8!
     This is a place for all my digital stuff (to paraphrase George Carlin).
   </p>
   <h1>Some Posts</h1>
-  {% for post in site.posts offset: 0 limit: 10  %}
+  {% for post in site.posts %}
   <h2>{{ post.title }}</h2>
   {{ post.excerpt }}
   <a href="{{ post.url }}" class="index-link"><h3>More...</h3></a>
