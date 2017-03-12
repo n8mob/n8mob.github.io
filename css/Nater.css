@@ -30,6 +30,22 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
 }
 
+strong {
+  color: FireBrick;
+  text-transform: uppercase;
+  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+}
+
+table {
+  text-align: left;
+  margin: auto -5% auto -5%
+}
+
+td {
+  vertical-align: top;
+  font-family: 'sutro', serif;
+}
+
 h1 {
   font-size: 300%;
   font-weight: normal;
@@ -45,6 +61,10 @@ h2 {
 
 h3 {
   color: #707070;
+}
+
+li {
+    margin: 1% 1% 1% -1%;
 }
 
 a:link.index-link p,
