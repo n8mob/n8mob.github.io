@@ -64,7 +64,12 @@ h3 {
 }
 
 li {
-    margin: 1% 1% 1% -1%;
+  margin: 1% 1% 1% -1%;
+  font-family: 'sutro', serif;
+}
+
+ul li:before {
+ content: "\0BB \020";
 }
 
 a:link.index-link p,

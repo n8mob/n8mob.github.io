@@ -6,10 +6,19 @@ title: Hi, I'm n8!
   <h1>The Index&nbsp;Page for {{ site.title }}</h1>
   <h2>Yet another unfinished blogging project.</h2>
   <p>
-    I'm Nate Grigg. This is, to paraphrase George Carlin, a place for all my digital stuff.
+    Hello, I'm Software Engineer Nate Grigg. You may remember me from such employments as:
+    <ul>
+      <li>Small web-development shop</li>
+      <li>Consumer-Electronics company</li>
+      <li>Airline software vendor</li>
+    and
+      <li>Established Family-History and DNA Company</li>
+    </ul>
+    
+    This is a place for all my digital stuff (to paraphrase George Carlin).
   </p>
   <h1>Some Posts</h1>
-  {% for post in site.posts %}
+  {% for post in site.posts offset: 0 limit: 10  %}
   <h2>{{ post.title }}</h2>
   {{ post.excerpt }}
   <a href="{{ post.url }}" class="index-link"><h3>More...</h3></a>
