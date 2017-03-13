@@ -1,5 +1,5 @@
 body {
-  margin: 10%;
+  margin: 4%;
   max-width: 800px;
   color: Black;
 }
@@ -57,19 +57,28 @@ h2 {
   color: FireBrick;
   font-size: 150%;
   font-weight: normal;
+  margin-top: 2.2em;
+  margin-bottom: -0.6em;
 }
 
 h3 {
   color: #707070;
+  margin-bottom: -0.7em;
 }
 
 li {
-  margin: 1% 1% 1% -1%;
+  margin: 1% 1% 1% -2em;
   font-family: 'sutro', serif;
 }
 
-ul li:before {
- content: "\0BB \020";
+ul.splat {
+  list-style: none;
+}
+
+ul.splat li:before {
+  font-size: 150%;
+  vertical-align: text-top;
+  content: "*   ";
 }
 
 a:link.index-link p,
