@@ -1,5 +1,5 @@
 ---
-layout: reference
+layout: post
 title: Shouting
 ---
 ## Shouting from the House Tops

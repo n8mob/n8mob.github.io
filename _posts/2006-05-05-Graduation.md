@@ -2,7 +2,7 @@
 layout: post
 title: The University of Utah
 category: transcribed
-excerpt: I graduated from the University of Utah on 5 May, 2006
+excerpt: <p>I graduated from the University of Utah on 5 May, 2006</p>
 ---
 
 # The University of Utah

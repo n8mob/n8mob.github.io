@@ -1,5 +1,5 @@
 ---
-layout: reference
+layout: default
 title: 2009
 ---
 

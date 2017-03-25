@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Pysical Recording Media
+title: Physical Recording Media
 ---
+![A Cassette]({{ site.url }}/assets/IMG_0990.jpg){: .photo }
+
 ## Nostalgia
 
 I’ve been shopping for a digital audio recorder. I have very little need for such a contraption, but I am compelled to acquire one by what I call “gadget lust.” I like to think that it is a desire to see and hold a device that is skillfully designed and built. There are other factors; I’ve always enjoyed recorders. One of the earliest Christmas presents I remember was a Fisher-Price cassette recorder. Perhaps the next Christmas I got a bigger, more grown-up version (stereo!).
