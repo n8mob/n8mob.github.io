@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1>This is the Index for {{ page.index-year }}</h1>
+
+{% assign index-year = page.index-year %}
+<h2>index-year: {{ index-year }}</h2>
+<h2>page.index-year: {{ page.index-year }}</h2>
+
+{% for post in site.posts %}
+{% assign post-year = post.date | date: "%Y" %}
+  <h4>post-year: {{ post-year }}</h4>
+  {% if post-year == index-year %}
+    <h2>It's a match!</h2>
+    <h2>{{ post.title }}</h2>
+    <h3>{{ post.date | date_to_long_string }}</h3>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}" class="index-link"><h3>More...</h3></a>
+  {% endif %}
+{% endfor %}
