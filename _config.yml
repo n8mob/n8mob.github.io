@@ -1,2 +1,3 @@
 title: My New Blog&nbsp;Thing
 permalink: /:categories/:year/:short_month/:title.html
+markdown: kramdown
