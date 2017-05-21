@@ -74,6 +74,10 @@ img {
 	margin: 4em auto;
 }
 
+.scale {
+    width: 93%;
+}
+
 li {
   margin: 1% 1% 1% -2em;
   font-family: 'sutro', serif;
