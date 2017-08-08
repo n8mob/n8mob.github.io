@@ -2,7 +2,7 @@
 layout: post
 title: You're Fired! A Memory
 ---
-Long ago I started my first job as a sixteen year old. I was selling pagers at the mall. A family friend was the general manager of the local office of the paging arm of a [Regional Bell Operating Company](https://en.wikipedia.org/wiki/Regional_Bell_Operating_Company) doing business as "PacTel Paging, A Pacific Telesis Company". I was working my very first shift at the mall when the phone rang.
+Long ago, I started my first job as a sixteen-year-old. I was selling pagers at the mall. A family friend was the general manager of the local office of the paging arm of a [Regional Bell Operating Company](https://en.wikipedia.org/wiki/Regional_Bell_Operating_Company) doing business as "PacTel Paging, A Pacific Telesis Company". I was working my very first shift at the mall when the phone rang.
 
 "Hello?" I answered.
 
