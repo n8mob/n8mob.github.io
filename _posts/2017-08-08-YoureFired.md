@@ -8,7 +8,7 @@ Long ago, I started my first job as a sixteen-year-old. I was selling pagers at 
 
 "You're fired," my friend (and my manager's manager) said.
 
-I blinked.
+I blinked, stunned and terrified.
 
 "Now answer the phone correctly and I'll hire you back."
 
