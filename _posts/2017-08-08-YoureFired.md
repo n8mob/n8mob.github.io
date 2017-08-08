@@ -14,6 +14,8 @@ I blinked, stunned and terrified.
 
 Oh!
 
-_"PacTel Paging: for families on the go! My name is Nate, how may I help you?"_
+## "PacTel *Paging*: for *families* on the go! My name is *Nate*, how may I *help* you?"*
+
+<br />
 
 "Okay, you're hired."
