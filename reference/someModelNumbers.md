@@ -25,3 +25,22 @@ Cassette Deck of my father
 ### Radio Shack TRC-226
 Hand-Held CB Radio Transceiver
 
+### Radio Shack PRO-51
+200-Channel Direct Entry Programmable Scanner
+
+### Radio Shack PRO-25
+Maybe
+Before I got the PRO-51 I had a less-expensive model.
+It had the two semi-circle buttons for <samp>SCAN</samp> and <samp>MANUAL</samp>.
+
+I'm looking at the 1994 catalog at [radioshackcatalogs.com](http://www.radioshackcatalogs.com/html/1994/h087.html). I'm certain that I had one of those scanners in the summer of 1994. I got my ham radio license in January of 1995, and I had the scanner _months_ before my 
+
+### Kenwood TH-79AD
+
+### Kenwood TH-F6A
+
+### Kenwood TM-733A
+
+### Kenwood TM-D700A
+
+### Kenwood TM-281A
