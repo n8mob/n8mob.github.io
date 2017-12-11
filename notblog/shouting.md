@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Shouting
 ---
 ## Shouting from the House Tops
