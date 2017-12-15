@@ -6,7 +6,7 @@ title: Hi, I'm n8!
   <h1>The Index&nbsp;Page for {{ site.title }}</h1>
   <h2>Yet another unfinished blogging project.</h2>
   <p>
-    Hello, I'm Software Engineer Nate Grigg. You may remember me from such occupations as:
+    Hello, I'm Software Engineer Nate Grigg. You may remember me from such employments as:
     <ul class="splat">
       <li>Small web-development shop</li>
       <li>Consumer-Electronics company</li>
@@ -19,9 +19,13 @@ title: Hi, I'm n8!
   </p>
   <h1>Some Posts</h1>
   {% for post in site.posts %}
-  <h2>{{ post.title }}</h2>
-  <h3>{{ post.date | date_to_long_string }}</h3>
-  {{ post.excerpt }}
-  <a href="{{ post.url }}" class="index-link"><h3>More...</h3></a>
+  <a href="{{ post.url }}" class="index-link">
+      <p>
+          <h2>{{ post.title }}</h2>
+          <h3>{{ post.date | date_to_long_string }}</h3>
+          {{ post.excerpt }}
+          <h3>More...</h3>
+      </p>
+  </a>
   {% endfor %}
 </body>

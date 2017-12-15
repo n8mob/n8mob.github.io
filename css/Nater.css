@@ -93,9 +93,8 @@ ul.splat li:before {
   content: "*   ";
 }
 
-a:link.index-link p,
-a:link.index-link h2 {
-  text-decoration: inherit;
+a.index-link {
+  text-decoration: none;
   color: inherit;
 }
 
