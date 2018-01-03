@@ -1,0 +1,20 @@
+---
+layout: default
+title: Posts Describing Ideas that I have Had (or Heard and Liked)
+category: idea
+---
+
+<h1>Some Posts</h1>
+
+{% for post in site.categories["idea"] %}
+
+  <a href="{{ post.url }}" class="index-link">
+      <p>
+          <h2>{{ post.title }}</h2>
+          <h3>{{ post.date | date_to_long_string }}</h3>
+          {{ post.excerpt }}
+          <h3>More...</h3>
+      </p>
+  </a>
+
+{% endfor %}
