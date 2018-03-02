@@ -28,7 +28,3 @@ Teddy's parents procured him an old, run-down computer when what he really wante
 He learns all kinds of things about software cracking etc. Eventually he unlocks the paid upgrades, and then he realizes that he could have been modding games on his computer the whole time.
 
 Something like that...
-
-## UPDATE
-
-I'm compiling information about this idea [here: Young-Adult Cyberpunk Series]({{ site.baseurl }}{% post_url Young_Adult_Cyberpunk.md %})
