@@ -7,8 +7,8 @@ title: Nate Grigg - General Résumé
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
-Currently working in the *Commerce* department at a major online media company. Replacing suite of monolithic .NET services with Java **mini**&zwnj;services, while also breaking the **mini**&zwnj;services into smaller **micro**&zwnj;services. Also spent the last year "lifting and shifting" all of these systems to **Amazon Web Services**.
-### Java, Spring, Maven, AWS
+Currently working in the *Commerce* department at a major online media company. Replacing suite of monolithic **.NET** services with Java **mini**&zwnj;services, while also breaking the **mini**&zwnj;services into smaller **micro**&zwnj;services. Also spent the last year "lifting and shifting" all of these systems to **Amazon Web Services**.
+### Java, Spring, Maven, .NET, AWS
 
 # Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
