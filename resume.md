@@ -7,7 +7,8 @@ title: Nate Grigg - General Résumé
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
-Currently working in the *Commerce* department at a major online media company. Replacing suite of monolithic **.NET** services with Java **mini**&zwnj;services, while also breaking the **mini**&zwnj;services into smaller **micro**&zwnj;services. Also spent the last year "lifting and shifting" all of these systems to **Amazon Web Services**.
+### Commerce department at a major online media company
+Nate is working on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, Nate is also helping to break the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
 ### Java, Spring, Maven, .NET, AWS
 
 # Mobile Projects
