@@ -11,17 +11,19 @@ title: Nate Grigg - General Résumé
 **Java**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
 # Proficiencies
-**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**
+**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**
 
 # Overview
-
-Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on .NET web applications from CMS to custom HTTP handlers
+Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on all maner of **.NE web applications** from **CMS** to **custom HTTP handlers**
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
 ### Commerce department at a major online media company
 Nate is working on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, Nate is also helping to break the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
+
+All this while implementing new features and helping the team raise their standards for software excellence.
 ### Java, Spring, Maven, .NET, AWS
+
 
 # Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
@@ -36,6 +38,7 @@ During the polishing project, the CEO of the Airline insisted that the mobile bo
 Nate and a friend developed and released a puzzle game to the **Windows Phone** marketplace. Nate found many exciting technical challenges including programming animations and subtle interactions in the **Windows Phone** flavor of **Silverlight**.
 
 Releasing the **minimum viable product** taught Nate and his friend a lot about **project management** and **prioritization**. While they hoped for greater success for the game, the lessons learned were well worth the effort.
+
 
 # Other Recent Projects
 
