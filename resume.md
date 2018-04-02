@@ -5,6 +5,18 @@ title: Nate Grigg - General Résumé
 
 ## nate@nategrigg.com<br />+1 801 599 NATE
 
+# Expert Skills
+**Software Design and Architecture**
+
+**Java**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
+
+# Proficiencies
+**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**
+
+# Overview
+
+Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on .NET web applications from CMS to custom HTTP handlers
+
 # Current Project
 ## Monolithic Breakup and Switch to Java
 ### Commerce department at a major online media company
