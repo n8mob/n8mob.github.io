@@ -54,12 +54,20 @@ h1 {
   max-width: 340px;
 }
 
+h2.subtitle {
+    color: FireBrick;
+    font-size: 150%;
+    font-weight: normal;
+    margin-top: -1.7em;
+    margin-bottom: -0.6em;
+}
+
 h2 {
-  color: FireBrick;
-  font-size: 150%;
-  font-weight: normal;
-  margin-top: 2.2em;
-  margin-bottom: -0.6em;
+    color: FireBrick;
+    font-size: 150%;
+    font-weight: normal;
+    margin-top: 2.2em;
+    margin-bottom: -0.6em;
 }
 
 h3 {

@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="/css/Nater.css" />
+        <meta name="viewport" content="initial-scale=1" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script src="https://use.typekit.net/kbn0mzq.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    </head>
+    <header>
+        <h2><a href="/">{{ site.title }}</a>
+    </header>
+    <body>
+        <h1 class='headline'>
+            {{ page.title }}</h1>
+        {{ content }}
+        <footer class="PageNavigation">
+            <h2 class="nav-prev">
+                {% if page.previous.url %}
+                <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+                {% else %}
+                <a href="/">Home</a>
+                {% endif %}
+            </h2>
+            {% if page.next.url %}
+            <h2 class="nav-next">
+                <a href="{{page.next.url}}">{{page.next.title}}</a>
+            </h2>
+            {% endif %}
+        </footer>
+    </body>
+</html>

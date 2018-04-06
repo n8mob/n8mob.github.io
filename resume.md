@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Nate Grigg - General Résumé
+layout: resume
+title: Nate Grigg - Expert Skills
 ---
 
-## nate@nategrigg.com<br />+1 801 599 NATE
+<h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Expert Skills
 **Software Design and Architecture**
@@ -14,7 +14,7 @@ title: Nate Grigg - General Résumé
 **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**
 
 # Overview
-Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on all maner of **.NE web applications** from **CMS** to **custom HTTP handlers**
+Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on all maner of **.NE web applications** from **CMS** to **custom HTTP handlers**.
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
@@ -39,8 +39,38 @@ Nate and a friend developed and released a puzzle game to the **Windows Phone** 
 
 Releasing the **minimum viable product** taught Nate and his friend a lot about **project management** and **prioritization**. While they hoped for greater success for the game, the lessons learned were well worth the effort.
 
+# Software Engineering Work History
 
-# Other Recent Projects
+## Senior Software Engineer, Ancestry, Inc. 
+### 2015&ndash;Present
+
+## Senior Software Engineer, Intermountain Healthcare
+### 2014&ndash;2015
+
+## Senior Software Engineer, RedBell Real Estate
+### 2013&ndash;2014
+
+## Senior Consultant, Application Development, Avanade Inc.
+### 2006&ndash;2013
+
+## Software Developer in Test, Control4
+### 2004&ndash;2006
+
+## Software Engineer, ThoughtLab
+### 2002&ndash;2004
+
+# Education
+
+## Bachelor of Science, Computer Science<br />University of Utah
+### 2002&ndash;2006
+
+## Utah State University
+### 1997
+
+## Salt Lake Community College
+### 1996&ndash;1998
+
+# Other Projects
 
 ## Sitecore Migration
 As a Sr. Software Engineer at Intermountain Healthcare, Nate worked to migrate Intermountain's consumer-facing sites and content from Microsoft's **SharePoint 2010** to the **Sitecore** content management system (v6.6).
