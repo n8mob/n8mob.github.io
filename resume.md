@@ -13,7 +13,7 @@ Nate has an intuitive creativity that is hard to come by in engineers. Combining
 **Java**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
 # Proficiencies
-**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**
+**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
 
 # Overview
 Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on all maner of **.NE web applications** from **CMS** to **custom HTTP handlers**.
