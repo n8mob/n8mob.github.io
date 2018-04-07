@@ -8,7 +8,7 @@ title: Nate Grigg - Expert Skills
 # Expert Skills
 **Software Design and Architecture**
 
-Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with a natural aversion to inefficiency and a knack for abstraction helps him see connections and boundaries to make truly simple designs.
+Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections and boundaries to make truly simple designs.
 
 **Java**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
