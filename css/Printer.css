@@ -1,0 +1,150 @@
+body {
+  margin: 4%;
+  max-width: 1000px;
+  color: Black;
+  background: #f8f8f8;
+}
+
+a:link {
+  color: FireBrick;
+}
+
+a:visited {
+  color: Brown;
+}
+
+a:hover {
+  color: Black;
+}
+
+a:active {
+  color: FireBrick;
+}
+
+blockquote {
+  font-style: italic;
+  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+  color: #707070;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+}
+
+strong {
+  color: FireBrick;
+  text-transform: uppercase;
+  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+  font-weight: normal;
+}
+
+table {
+  text-align: left;
+  margin: auto -5% auto -5%
+}
+
+td {
+  vertical-align: top;
+  font-family: 'sutro', serif;
+}
+
+h1 {
+  font-size: 300%;
+  font-weight: normal;
+  text-transform: uppercase;
+  max-width: 340px;
+}
+
+h2.subtitle {
+    color: FireBrick;
+    font-size: 150%;
+    font-weight: normal;
+    margin-top: -1.7em;
+    margin-bottom: -0.6em;
+}
+
+h2 {
+    color: FireBrick;
+    font-size: 150%;
+    font-weight: normal;
+    margin-top: 2.2em;
+    margin-bottom: -0.6em;
+}
+
+h3 {
+  color: #707070;
+  margin-bottom: -0.7em;
+  font-weight: normal;  
+}
+
+img {
+	max-width: 93%;
+	border: solid black 1.5px;
+	display: block;
+	margin: 4em auto;
+}
+
+.scale {
+    width: 93%;
+}
+
+li {
+  margin: 1% 1% 1% -2em;
+  font-family: 'sutro', serif;
+}
+
+ul.splat {
+  list-style: none;
+}
+
+ul.splat li:before {
+  font-size: 150%;
+  vertical-align: text-top;
+  content: "*   ";
+}
+
+a.index-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+p {
+  font-family: 'sutro', serif;
+  font-size: large;
+  letter-spacing: 0.5px;
+}
+
+.postscript {
+    bottom: 0;
+}
+
+footer cite {
+  font-size: 70%;
+  margin: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer h2 {
+  text-transform: uppercase
+}
+
+.nav-prev {
+  margin-inline-end: 15px;
+}
+
+.nav-next {
+  margin-inline-start: 15px;
+}
+
+.subhead {
+  margin-top: -3%;
+}
+
+.contact {
+  color: #404040;
+  margin-top: -5%;
+}
