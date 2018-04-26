@@ -44,20 +44,23 @@ table {
 }
 
 td {
-  vertical-align: top;
-  font-family: 'sutro', serif;
+    vertical-align: top;
+    font-family: 'sutro', serif;
+}
+
+h1.title {
+    font-size: 500%;
 }
 
 h1 {
-  font-size: 300%;
-  font-weight: normal;
-  text-transform: uppercase;
-  max-width: 340px;
+    font-size: 200%;
+    font-weight: normal;
+    text-transform: uppercase;
+    max-width: 640px;
 }
 
 h2.subtitle {
     color: FireBrick;
-    font-size: 150%;
     font-weight: normal;
     margin-top: -1.7em;
     margin-bottom: -0.6em;
@@ -65,9 +68,9 @@ h2.subtitle {
 
 h2 {
     color: FireBrick;
-    font-size: 150%;
+    font-size: 130%;
     font-weight: normal;
-    margin-top: 2.2em;
+    margin-top: 0.7em;
     margin-bottom: -0.6em;
 }
 
@@ -132,11 +135,11 @@ footer h2 {
 }
 
 .nav-prev {
-  margin-inline-end: 15px;
+    display: none;
 }
 
 .nav-next {
-  margin-inline-start: 15px;
+    display: none;
 }
 
 .subhead {
