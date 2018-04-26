@@ -10,7 +10,7 @@ title: Nate Grigg - Expert Skills
 
 Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections and boundaries to make truly simple designs.
 
-**Java**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
+**Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
 # Proficiencies
 **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
@@ -20,12 +20,11 @@ Nate has spent the last three years transitioning from **C#** and **.NET** to **
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
-### Commerce department at a major online media company
+### Commerce department at Ancestry
 Nate is working on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, Nate is also helping to break the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
 
 All this while implementing new features and helping the team raise their standards for software excellence.
 ### Java, Spring, Maven, .NET, AWS
-
 
 # Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
@@ -45,21 +44,38 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;Present
+Originally hired for the Cross-Cutting Solutions internal consulting group, Nate has worked since late 2015 on the Order Processing team in the Commerce department.
+### Java 8, JAX-RS, REST, Micro-Services, Spring Dependency Injection, Maven
 
 ## Senior Software Engineer, Intermountain Healthcare
 ### 2014&ndash;2015
+Non-Profit Healthcare Provider
+
+Nate worked with the web team implementing the company's main user-facing web site.
+### Sitecore Content Management System (CMS)
 
 ## Senior Software Engineer, RedBell Real Estate
 ### 2013&ndash;2014
+Real-Estate Services company
+### ASP.NET Web Forms
 
 ## Senior Consultant, Application Development, Avanade Inc.
 ### 2006&ndash;2013
+IT Consulting joint venture from Accenture and Microsoft
+
+Most of Nate's time with Avanade was spent in Professional Services at Navitaire, an airline reservations company. Navitaire Professional Services assists airlines with implementation and customization of Navitaire's reservations platform. Nate mostly worked with airline web developers customizing various aspects of their booking flow.
 
 ## Software Developer in Test, Control4
 ### 2004&ndash;2006
+Home-automation startup
+
+Testing hardware and software at a home-automation startup.
+### Embedded Linux, C, C++, Custom Test Automation Software in C\#
 
 ## Software Engineer, ThoughtLab
 ### 2002&ndash;2004
+Custom web applications
+### ASP.NET 1.0, 1.1
 
 # Education
 
@@ -71,6 +87,18 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 ## Salt Lake Community College
 ### 1996&ndash;1998
+
+# Payment Projects
+## Russian Low-Cost Airline - 2006
+The Russian Post Office provides a payment service. A simple barcode contains information to identify the unpaid airline reservation. The customer takes the barcode to the post office and pays the amount due. Then the post office will settle with the airline on the back end.
+
+Nate developed the ASP.NET HTTP handler that would get the current booking from session state and generate the PDF with the barcode for the customer to take to the post office.
+
+## 3D Secure<br /> Various Airlines 2009&ndash;2012
+The process goes like this: customer purchases something (in this case an airline reservation). At the end of the purchase flow, if the cardholder is enrolled in 3D Secure, instead of taking payment information directly, the merchant site sends purchase information to the 3D-secure card issuer. The customer is then given an HTTPS web form from the card issuer's domain where they can securely fill in the payment details.
+
+The card issuer verifies the payment information and the amount due and then sends the customer back to the designated page on the merchant's site. The redirect GET or POST contains the original booking identifier and a payment confirmation code which the merchant can then record as proof of payment.
+
 
 # Other Projects
 
