@@ -14,3 +14,4 @@ They had a fake generator strung up to the lights around the fake archaeology di
 
 Perhaps I should apply to the Imagineering department.
 
+I started reading [this post](https://aux.avclub.com/the-met-gala-wasnt-shit-compared-to-the-1995-indiana-jo-1825870380) and remembered about going on that ride. Now I'm trying to remember when that must have been.
