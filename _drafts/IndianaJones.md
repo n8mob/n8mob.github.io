@@ -4,7 +4,7 @@ title: Indiana Jones Ride at Disneyland
 category: memory
 ---
 
-The reason I'm making this post is because I can't remember what age I was when I went to Disneyland with my folks and rode the Indiana Jones ride for the first time.
+The reason I'm making this post for a placeholder. I can't remember what age I was when I went to Disneyland with my folks and rode the Indiana Jones ride for the first time.
 
 > Quote from 'In the Beginning Was the Command Line' about just wanting to go to Disneyland
 
