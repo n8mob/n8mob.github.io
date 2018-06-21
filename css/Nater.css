@@ -35,6 +35,7 @@ strong {
   color: FireBrick;
   text-transform: uppercase;
   font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+  font-weight: normal;
 }
 
 table {
