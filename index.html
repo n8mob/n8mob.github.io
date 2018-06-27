@@ -4,19 +4,8 @@ title: Hi, I'm n8!
 ---
 <body>
   <h1>The Index&nbsp;Page for {{ site.title }}</h1>
-  <h2>Yet another unfinished blogging project.</h2>
-  <p>
-    Hello, I'm Software Engineer Nate Grigg. You may remember me from such employments as:
-    <ul class="splat">
-      <li>Small web-development shop</li>
-      <li>Consumer-Electronics company</li>
-      <li>Airline software vendor</li>
-    and
-      <li>Established Family-History and DNA Company</li>
-    </ul>
-    
-    This is a place for all my digital stuff (to paraphrase George Carlin).
-  </p>
+  <p>Here is a link to my <a href="/resume.html">online résumé</a></p>
+  <p>And a <a href="/resume.pdf">PDF version.</a></p>
   <h1>Some Posts</h1>
   {% for post in site.posts %}
   <a href="{{ post.url }}" class="index-link">
