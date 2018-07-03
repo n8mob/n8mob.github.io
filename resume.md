@@ -10,6 +10,8 @@ title: Nate Grigg - Expert Skills
 
 Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections and boundaries to make truly simple designs.
 
+[US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en): Is an excellent example of abstracting the complexity of making a travel booking into a single swipe of a credit card for (e.g.) a bus driver.
+
 **Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
 # Proficiencies
