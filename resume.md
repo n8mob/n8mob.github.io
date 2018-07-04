@@ -10,7 +10,9 @@ title: Nate Grigg - Expert Skills
 
 Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections and boundaries to make truly simple designs.
 
-[US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en): Is an excellent example of abstracting the complexity of making a travel booking into a single swipe of a credit card for (e.g.) a bus driver.
+[US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
+
+This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, and selecting a destination are reduced to a single swipe of a credit card.
 
 **Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
 
@@ -30,12 +32,14 @@ All this while implementing new features and helping the team raise their standa
 
 # Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
+### 2014
 While working to convert the main website from **SharePoint 2010** to the **Sitecore** *content management system (CMS)*, a new feature was being developed in the company's native mobile apps. Nate quickly exposed content from the CMS as **JSON** output so the mobile developers could deliver their feature on time.
 
 ## Mobile Web Application for booking flights
+### 2010-2012
 Nate built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. Nate proposed polishing the prototype web app and the customer agreed.
 
-During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** apps in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
+During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
 
 ## Mobile Game in the Windows Phone marketplace
 Nate and a friend developed and released a puzzle game to the **Windows Phone** marketplace. Nate found many exciting technical challenges including programming animations and subtle interactions in the **Windows Phone** flavor of **Silverlight**.
