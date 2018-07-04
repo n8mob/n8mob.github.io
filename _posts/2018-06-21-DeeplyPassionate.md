@@ -11,7 +11,7 @@ To find my own _Hedgehog Concept_, I asked myself the same question. My top five
 My first job was selling pagers at the mall. Ever since then, I've loved the idea of having information and functionality at my fingertips wherever I go.
 
 ## Helping people understand technology
-Selling pagers at the mall involved a lot of teaching and explaining what a pager was and why it would be useful to someone who wasn't a doctor or a drug dealer.
+Selling pagers at the mall involved a lot of teaching and explaining what a pager _was_ and why it would be _useful_ to someone who wasn't a doctor or a drug dealer.
 
 ## Hacking and Security things
 One of the things that convinced me that pagers were cool was when a family friend (and my future boss) showed me that pager signals went out over radio waves just like FM broadcast radio and the TV signal from station U62 in Weird Al's movie, [UHF](https://film.avclub.com/we-got-it-all-on-uhf-an-oral-history-of-weird-al-yan-1798278657) . As soon as I got the job, I got a police scanner and started listening to everything I could find. Accessing signals and protecting communications have been on my mind ever since.
