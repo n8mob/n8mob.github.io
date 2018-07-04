@@ -16,7 +16,7 @@ Nate has an intuitive creativity that is hard to come by in engineers. Combining
 **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
 
 # Overview
-Nate has spent the last three years transitioning from **C#** and **.NET** to **Java** technologies. Before that he worked on all manner of **.NET web applications** from **CMS** to **custom HTTP handlers**.
+After more than ten years in the **.NET** ecosystem, Nate has spent the last three years traveling to **Javaland**. Before that he worked on all manner of **.NET web applications** from implementing a **SiteCore** commercial **CMS** to writing a **custom HTTP handlers** to draw a **PDF**.
 
 # Current Project
 ## Monolithic Breakup and Switch to Java
