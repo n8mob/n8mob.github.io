@@ -42,6 +42,7 @@ Nate built a prototype **Mobile Web Application** for making airline reservation
 During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
 
 ## Mobile Game in the Windows Phone marketplace
+### 2011
 Nate and a friend developed and released a puzzle game to the **Windows Phone** marketplace. Nate found many exciting technical challenges including programming animations and subtle interactions in the **Windows Phone** flavor of **Silverlight**.
 
 Releasing the **minimum viable product** taught Nate and his friend a lot about **project management** and **prioritization**. While they hoped for greater success for the game, the lessons learned were well worth the effort.
