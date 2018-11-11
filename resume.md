@@ -95,18 +95,6 @@ Custom web applications
 ## Salt Lake Community College
 ### 1996&ndash;1998
 
-# Payment Projects
-## Russian Low-Cost Airline - 2006
-The Russian Post Office provides a payment service. A simple barcode contains information to identify the unpaid airline reservation. The customer takes the barcode to the post office and pays the amount due. Then the post office will settle with the airline on the back end.
-
-Nate developed the ASP.NET HTTP handler that would get the current booking from session state and generate the PDF with the barcode for the customer to take to the post office.
-
-## 3D Secure<br /> Various Airlines 2009&ndash;2012
-The process goes like this: customer purchases something (in this case an airline reservation). At the end of the purchase flow, if the cardholder is enrolled in 3D Secure, instead of taking payment information directly, the merchant site sends purchase information to the 3D-secure card issuer. The customer is then given an HTTPS web form from the card issuer's domain where they can securely fill in the payment details.
-
-The card issuer verifies the payment information and the amount due and then sends the customer back to the designated page on the merchant's site. The redirect GET or POST contains the original booking identifier and a payment confirmation code which the merchant can then record as proof of payment.
-
-
 # Other Projects
 
 ## Sitecore Migration
