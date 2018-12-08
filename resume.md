@@ -25,6 +25,8 @@ This patent illustrates Nate's ability to reduce complexity. Here, the steps of 
 ## Chain Chat
 ### 2018&ndash;Present
 
+A puzzle game inspired by a chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
+
 
 # Past Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
