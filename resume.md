@@ -6,37 +6,33 @@ title: Nate Grigg - Expert Skills
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Expert Skills
-**Software Design and Architecture**
 
-Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections and boundaries to make truly simple designs.
+Nate has expert skills in **Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**. But his real passions are in the areas of:
+
+**Mobile Strategy**, and<br />
+**Software Design** and **Architecture**
+
+Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections, find boundaries, and make truly simple designs.
 
 [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
 
-This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, and selecting a destination are reduced to a single swipe of a credit card.
-
-**Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**
+This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
 
 # Proficiencies
 **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
 
-# Overview
-After more than ten years in the **.NET** ecosystem, Nate has spent the last three years traveling to **Javaland**. Before that he worked on all manner of **.NET web applications** from implementing a **SiteCore** commercial **CMS** to writing a **custom HTTP handlers** to draw a **PDF**.
-
 # Current Project
-## Monolithic Breakup and Switch to Java
-### Commerce department at Ancestry
-Nate is working on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, Nate is also helping to break the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
+## Chain Chat
+### 2018&ndash;Present
 
-All this while implementing new features and helping the team raise their standards for software excellence.
-### Java, Spring, Maven, .NET, AWS
 
-# Mobile Projects
+# Past Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
 ### 2014
 While working to convert the main website from **SharePoint 2010** to the **Sitecore** *content management system (CMS)*, a new feature was being developed in the company's native mobile apps. Nate quickly exposed content from the CMS as **JSON** output so the mobile developers could deliver their feature on time.
 
 ## Mobile Web Application for booking flights
-### 2010-2012
+### 2010&ndash;2012
 Nate built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. Nate proposed polishing the prototype web app and the customer agreed.
 
 During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
@@ -50,8 +46,14 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 # Software Engineering Work History
 
 ## Senior Software Engineer, Ancestry, Inc. 
-### 2015&ndash;Present
-Originally hired for the Cross-Cutting Solutions internal consulting group, Nate has worked since late 2015 on the Order Processing team in the Commerce department.
+### 2015&ndash;2018
+
+### Monolith BreakUp and conversion to Micro Services
+### Commerce department at Ancestry
+Nate worked on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, the team also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
+
+All this while implementing new features and helping the team raise their standards for software excellence.
+
 ### Java 8, JAX-RS, REST, Micro-Services, Spring Dependency Injection, Maven
 
 ## Senior Software Engineer, Intermountain Healthcare
@@ -94,18 +96,5 @@ Custom web applications
 
 ## Salt Lake Community College
 ### 1996&ndash;1998
-
-# Other Projects
-
-## Sitecore Migration
-As a Sr. Software Engineer at Intermountain Healthcare, Nate worked to migrate Intermountain's consumer-facing sites and content from Microsoft's **SharePoint 2010** to the **Sitecore** content management system (v6.6).
-
-Nate's tasks on the project included (but were not limited to)
-
-- Consume web services from other systems
-- Integrate those services with **Sitecore**
-- Build custom **Sitecore** controls
-- Export data from **SharePoint**
-- Import data to **Sitecore**
 
 ## work in progress... more to come.
