@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Chain Chat Support Information
-date: 2018-07-31
+date: 2018-12-08
 ---
 
-Chain Chat is currently in (very) limited beta release.
-This page is current as of 31 July, 2018
+Chain Chat v0.3 is currently in development.
+This page is current as of 8 December, 2018.
 
 ## Privacy Policy
 
