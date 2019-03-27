@@ -45,6 +45,10 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 # Software Engineering Work History
 
+## Developer, Personal Project
+### Nov 2018&ndash;
+See [Chain Chat](#current-project) above
+
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;2018
 
