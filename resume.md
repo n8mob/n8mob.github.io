@@ -5,8 +5,13 @@ title: Nate Grigg - Expert Skills
 
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
-# Expert Skills
+# Current Project
+## Chain Chat
+### Nov 2018&ndash;Present
 
+Nate is currently working on ***Chain Chat*** &mdash; A binary-encoding puzzle game. It is inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI). 
+
+# Expert Skills
 Nate has expert skills in **Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **.NET**. But his real passions are in the areas of:
 
 **Mobile Strategy**, and<br />
@@ -19,14 +24,7 @@ Nate has an intuitive creativity that is hard to come by in engineers. Combining
 This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
 
 # Proficiencies
-**JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
-
-# Current Project
-## Chain Chat
-### 2018&ndash;Present
-
-A puzzle game inspired by a chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
-
+While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
 
 # Past Mobile Projects
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
