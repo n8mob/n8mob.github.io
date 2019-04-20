@@ -17,7 +17,8 @@ Nate has expert skills in **Java 8**, **HTTP**, **REST**, **HATEOS**, **C#**, **
 **Mobile Strategy**, and<br />
 **Software Design** and **Architecture**
 
-Nate has an intuitive creativity that is hard to come by in engineers. Combining this creativity with an uncanny knack for abstraction and a natural aversion to inefficiency helps him see connections, find boundaries, and make truly simple designs.
+Nate has an intuitive creativity that is hard to come by in engineers.
+Combine this creativity with an uncanny knack for abstraction and you get ingenious technical solutions. Mix in Nate's natural aversion to inefficiency and you end up with truly elegant designs.
 
 [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
 
