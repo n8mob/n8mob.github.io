@@ -59,6 +59,7 @@ Hand-Held CB Radio Transceiver
 
 ## Radio Shack PRO-25
 Maybe
+
 Before I got the PRO-51 I had a less-expensive model.
 It had the two semi-circle buttons for <samp>SCAN</samp> and <samp>MANUAL</samp>.
 
