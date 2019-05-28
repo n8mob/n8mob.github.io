@@ -51,6 +51,9 @@ Before too long I acquired a C120 two-hour cassette that could catch the whole s
 ## Panasonic RX-SR29
 After the portable player out of the top of the BP1000 stopped working, I replaced it with the [Panasonic RX-SR29](http://pocketcalculatorshow.com/walkman/panasonic/panasonic-walkman-models/). I put that giant thing in my pocket and carried it around in Middle School. I ran some earbuds up through my shirt. (Originally the ones from my original GameBoy, but later some Sony ones.)
 
+## Sony MDR-E414 Earbuds
+My original Nintendo GameBoy came with a pair of stereo earbuds. I liked them so much that I replaced them with what had to be a pair of Sony MDR-E414s.
+
 ## Radio Shack TRC-226
 Hand-Held CB Radio Transceiver
 
@@ -64,6 +67,8 @@ Before I got the PRO-51 I had a less-expensive model.
 It had the two semi-circle buttons for <samp>SCAN</samp> and <samp>MANUAL</samp>.
 
 I'm looking at the 1994 catalog at [radioshackcatalogs.com](http://www.radioshackcatalogs.com/html/1994/h087.html). I'm certain that I had one of those scanners in the summer of 1994. I got my ham radio license in January of 1995, and I had the scanner _months_ before my 
+
+# Ham Radio Gear
 
 ## Kenwood TH-79AD
 
