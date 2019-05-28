@@ -14,7 +14,7 @@ I blinked, stunned and terrified.
 
 Oh!
 
-## "PacTel *Paging*: for *families* on the go! My name is *Nate*, how may I *help* you?"*
+## "PacTel *Paging*: for *families* on the go! My name is *Nate*, how may I *help* you?"
 
 <br />
 
