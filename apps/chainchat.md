@@ -4,8 +4,8 @@ title: Chain Chat Support Information
 date: 2019-06-26
 ---
 
-Chain Chat v1.22 is currently in development.
-This page is current as of 26 June, 2019
+Chain Chat has changed names to [MAGiE]({% link apps/magie.md %})
+This page was current as of 26 June, 2019
 
 ## Privacy Policy
 

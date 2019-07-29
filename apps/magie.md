@@ -1,11 +1,25 @@
 ---
 layout: post
 title: MAGiE Support Information
-date: 2019-06-26
+date: 2019-07-29
 ---
 
-MAGiE v1.22 is currently in development.
-This page is current as of 26 June, 2019
+This page is current as of 29 July, 2019
+
+## MAGiE v2.2 is currently in beta.
+
+## [iPhone](https://testflight.apple.com/join/obsIYcRN)
+If you have iPhone or iPod touch you can join the beta through [TestFlight](https://testflight.apple.com/join/obsIYcRN)
+
+https://testflight.apple.com/join/obsIYcRN
+
+(It works on iPad too, but it's ugly).
+
+## [Android](https://play.google.com/apps/testing/com.corporealabstract.magie)
+
+If you have an Android phone, you can join the beta through the [Google Play Store](https://play.google.com/apps/testing/com.corporealabstract.magie).
+
+https://play.google.com/apps/testing/com.corporealabstract.magie
 
 ## Privacy Policy
 
