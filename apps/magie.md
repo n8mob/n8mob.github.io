@@ -1,12 +1,12 @@
 ---
 layout: post
 title: MAGiE Support Information
-date: 2019-07-29
+date: 2019-08-06
 ---
 
-This page is current as of 29 July, 2019
+This page is current as of 6 August, 2019
 
-## MAGiE v2.2 is currently in beta.
+## MAGiE v3.0  is currently in beta.
 
 ## [iPhone](https://testflight.apple.com/join/obsIYcRN)
 If you have iPhone or iPod touch you can join the beta through [TestFlight](https://testflight.apple.com/join/obsIYcRN)
