@@ -20,7 +20,7 @@ While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP
 
 ## Personal Project - Mobile Puzzle Game
 ### Nov 2018&ndash;Present
-**C# 7**, **.Net Core** on Mac, **NuGet**, **Component- **Apple App Store**, **Google Play Store**
+**C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **Apple App Store**, **Google Play Store**
 
 ## Senior Software Engineer, Ancestry Inc.
 ### Apr 2015&ndash;Dec 2018
