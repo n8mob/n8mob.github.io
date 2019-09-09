@@ -6,7 +6,7 @@ title: Nate Grigg - Expert Skills
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Current Project
-## [MAGiE]({% link https://magiegame.com/magie/ %})
+## [MAGiE](https://magiegame.com/magie/)
 ### Nov 2018&ndash;Present
 
 Nate just released a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
@@ -14,6 +14,8 @@ Nate just released a mobile puzzle game. It is built around the concept of binar
 MAGiE is the name of the game. It was originally inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
 
 Nate is working with a friend to build the game using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage the dependencies in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
+
+[https://magiegame.com/magie/](https://magiegame.com/magie/)
 
 # Expert Skills
 Nate has expert skills in **Java 8**, **HTTP**, **REST/HATEOS**, **C#**, **.NET**. But his real passions are in the areas of:
