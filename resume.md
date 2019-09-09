@@ -6,10 +6,10 @@ title: Nate Grigg - Expert Skills
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Current Project
-## [MAGiE]({% link apps/magie.md %}) (formerly (un-)known as [Chain Chat]({% link apps/chainchat.md %}))
+## [MAGiE]({% link https://magiegame.com/magie/ %})
 ### Nov 2018&ndash;Present
 
-Nate is currently working on a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
+Nate just released a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
 
 MAGiE is the name of the game. It was originally inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
 
