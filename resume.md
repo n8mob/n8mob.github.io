@@ -5,18 +5,6 @@ title: Nate Grigg - Expert Skills
 
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
-# Current Project
-## [MAGiE](https://magiegame.com/magie/)
-### Nov 2018&ndash;Present
-
-Nate just released a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
-
-MAGiE is the name of the game. It was originally inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
-
-Nate is working with a friend to build the game using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage the dependencies in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
-
-[https://magiegame.com/magie/](https://magiegame.com/magie/)
-
 # Expert Skills
 Nate has expert skills in **Java 8**, **HTTP**, **REST/HATEOS**, **C#**, **.NET**. But his real passions are in the areas of:
 
@@ -26,14 +14,23 @@ Nate has expert skills in **Java 8**, **HTTP**, **REST/HATEOS**, **C#**, **.NET*
 Nate has an intuitive creativity that is hard to come by in engineers.
 Combine this creativity with an uncanny knack for abstraction and you get ingenious technical solutions. Mix in Nate's natural aversion to inefficiency and you end up with truly elegant designs.
 
-[US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
-
-This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
-
 # Proficiencies
-While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
+While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
+
+# Current Mobile Project
+## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
+### Nov 2018&ndash;Present
+
+Nate just released a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
+
+MAGiE is the name of the game. It was originally inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
+
+Nate is building the game using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
+
+[https://magiegame.com/magie/](https://magiegame.com/magie/)
 
 # Past Mobile Projects
+
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
 ### 2014
 While working to convert the main website from **SharePoint 2010** to the **Sitecore** *content management system (CMS)*, a new feature was being developed in the company's native mobile apps. Nate quickly exposed content from the CMS as **JSON** output so the mobile developers could deliver their feature on time.
@@ -43,6 +40,11 @@ While working to convert the main website from **SharePoint 2010** to the **Site
 Nate built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. Nate proposed polishing the prototype web app and the customer agreed.
 
 During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
+
+## [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
+### Application Filed May 2011
+
+This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
 
 ## Mobile Game in the Windows Phone marketplace
 ### 2011
@@ -54,14 +56,14 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 ## Developer, Personal Project
 ### Nov 2018&ndash;
-See [Chain Chat](#current-project) above
+See [MAGiE](#current-mobile-project) above
 
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;2018
 
 ### Monolith BreakUp and conversion to Micro Services
 ### Commerce department at Ancestry
-Nate worked on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, the team also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
+Nate worked on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, the team also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to the **AWS** cloud.
 
 All this while implementing new features and helping the team raise their standards for software excellence.
 
