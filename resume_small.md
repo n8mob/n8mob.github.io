@@ -18,7 +18,7 @@ While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP
 
 # Employment History
 
-## Personal Project - Mobile Puzzle Game
+## MAGiE - Personal Project - Mobile Puzzle Game
 ### Nov 2018&ndash;Present
 **C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **Apple App Store**, **Google Play Store**
 
@@ -60,7 +60,7 @@ While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP
 # Project Highlights
 
 ## Monolith Break-Up and conversion to Micro Services
-### 2016&ndash;2018
+### Ancestry 2016&ndash;2018
 Nate worked on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, the team also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
 
 All this while implementing new features, raising standards for software excellence, and improving delivery times for new features.

@@ -6,7 +6,7 @@ title: Nate Grigg - Expert Skills
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Expert Skills
-Nate has expert skills in **Java 8**, **HTTP**, **REST/HATEOS**, **C#**, **.NET**. But his real passions are in the areas of:
+Nate has expert skills in **Java 8**, **HTTP**, **Web Services**, **C#**, **.NET**. But his real passions are in the areas of:
 
 **Mobile Strategy**, and<br />
 **Software Design** and **Architecture**
@@ -17,15 +17,17 @@ Combine this creativity with an uncanny knack for abstraction and you get ingeni
 # Proficiencies
 While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
 
-# Current Mobile Project
+# Current Project
 ## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
 ### Nov 2018&ndash;Present
 
-Nate just released a mobile puzzle game. It is built around the concept of binary-encoding or how to represent information using only **1's** and **0's**.
+Nate just released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
 
-MAGiE is the name of the game. It was originally inspired by the *Castle Turing* chapter from Neal Stephenson's [*The Diamond Age: A Young Lady's Illustrated Primer*](https://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra-ebook/dp/B000FBJCKI).
+While managing beta tests and releases, Nate earned a new respect for continuous delivery and release management!
 
-Nate is building the game using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
+The game is called MAGiE, short for MAGnetic Interactive Explorer. The premise is that you have this device that reads binary data from a mag-stripe like on a credit card. The game then presents you with puzzles where you have to decode the bits to read a message, or encode bits to answer a puzzle.
+
+It's lots of fun, you should try it!
 
 [https://magiegame.com/magie/](https://magiegame.com/magie/)
 
