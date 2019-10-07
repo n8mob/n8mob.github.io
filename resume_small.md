@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Nate Grigg - Expert Skills
+title: Nate Grigg - Small Resume
 ---
 
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
@@ -8,18 +8,19 @@ title: Nate Grigg - Expert Skills
 # Expert Skills
 Professional Developer since 2002
 
-Nate has expert skills in **Java 8**, **HTTP**, **REST/HATEOS**, **C#**, **.NET**.  
+Nate has expert skills in **Java 8**, **Web Services**, **C#**, and **.NET**.  
 But his real passions are in the areas of:  
 **Mobile Strategy**, and  
 **Software Design** and **Architecture**
 
 # Proficiencies
-While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**
+While he wouldn't claim to be an expert, Nate is proficient in **REST/HATEOS**, **JAX-RS**, **.NET Core**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, and **Lean Development**
 
 # Employment History
 
 ## MAGiE - Personal Project - Mobile Puzzle Game
 ### Nov 2018&ndash;Present
+### [magiegame.com](https://magiegame.com/magie/)
 **C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **Apple App Store**, **Google Play Store**
 
 ## Senior Software Engineer, Ancestry Inc.
@@ -61,7 +62,11 @@ While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP
 
 ## Monolith Break-Up and conversion to Micro Services
 ### Ancestry 2016&ndash;2018
-Nate worked on replacing a suite of monolithic **.NET** services with Java **mini**&zwnj;services. Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended. So, while breaking up the **monolith**, the team also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The team also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to **Amazon Web Services**.
+The Commerce department at Ancestry was already working on replacing a few large **monoliths** with smaller services. They were using that project as a springboard to be one of the first departments at Ancestry to switch from **.NET** to **Java**. Nate and some other colleagues joined Commerce all at once. This overloaded the **code review workflow**. Specifically, it introduced a lot of merge conflicts due to simultaneous work being done by many developers.
+
+One the solution was to break up one of the new Java services into three _even smaller_ micro services. This reduced merge conflicts from unrelated code changes by moving unrelated code into different code-bases.
+
+At the same time, the team worked to "lift and shift" all of these services: the **monolithic** and the **micro** services, as well as the in-between **"mini"** services.
 
 All this while implementing new features, raising standards for software excellence, and improving delivery times for new features.
 
@@ -76,5 +81,7 @@ During the polishing project, the CEO of the Airline insisted that the mobile bo
 ## Patent for "One-Click Booking" for A Bus Ride
 ### 2010&ndash;2011
 [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
-While making a proof-of-concept for a customer pitch, Nate and his colleagues made a web app that would allow a bus driver to reserve and sell a reservation on the bus with a single swipe of a credit card. Accenture decided to patent it.
+While making a proof-of-concept for a customer pitch, Nate and his colleagues at *Navitaire* made a web app that would allow a bus driver to reserve and sell a seat on the bus with a single swipe of a credit card. Accenture decided to patent it.
+
+Long story short: the app already knows the route based on driver schedule, GPS, or some other input. So the app already knows the destination. The bus driver tells the app which stop they are at, (or it figures it out from GPS readings) so the app knows the origin of the reservation. Buses don't have stringent identification requirements, so passenger information does not need to be collected at the time of sale. So all the driver has to do is take the money and the reservation is made.
 
