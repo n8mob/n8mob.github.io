@@ -6,16 +6,17 @@ title: Nate Grigg - Expert Skills
 <h2 class='subtitle'>nate@nategrigg.com<br />+1 801 599 NATE</h2>
 
 # Expert Skills
-Nate has expert skills in **Java 8**, **HTTP**, **Web Services**, **C#**, **.NET**. But his real passions are in the areas of:
+Nate has expert skills in **Java 8**, **Web Services**, **C#**, and **.NET**.
 
+But his real passions are in the areas of:
 **Mobile Strategy**, and<br />
 **Software Design** and **Architecture**
 
 Nate has an intuitive creativity that is hard to come by in engineers.
 Combine this creativity with an uncanny knack for abstraction and you get ingenious technical solutions. Mix in Nate's natural aversion to inefficiency and you end up with truly elegant designs.
 
-# Proficiencies
-While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
+# Proficient Skills
+While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
 
 # Current Project
 ## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
