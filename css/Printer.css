@@ -85,6 +85,8 @@ img {
     border: solid black 1.5px;
     display: block;
     margin: 4em auto;
+    page-break-inside: avoid;
+    position: relative;
 }
 
 .scale {

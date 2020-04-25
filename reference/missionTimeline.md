@@ -3,11 +3,30 @@ layout: reference
 title: Mission Companions
 published: False
 ---
-# {{ page.title }}
 
-A list of all my mission companions while I was serving as a full-time missionary in the Alabama Birmingham Mission of The Church of Jesus Christ of Latter-Day Saints
+A list of people and events from my mission, including - but not limited to - companions and transfers.
+
+# ?
+Decide to go
+Submit Application
+Receive Call
+
+# 1999, December
+## 01
+Receive endowment at the Jordan River Temple
+
+## 06 Farewell Sacrament Meeting
+
+## 17
+Last day of work at Teltrust
+
+# 1999, December 30
+Enter the Missionary Training Center (MTC)
+
 ## Missionary Training Center
  - Jamie Lee Heath
+
+# 1999, January ~12
 ## Bessemer
  -  Spencer Clawson
  -  That Guy
@@ -28,3 +47,10 @@ A list of all my mission companions while I was serving as a full-time missionar
  - Elder Harris
  - Elder Guyton
  - Elder... Dustin
+
+# All Mission People
+Other Missionaries, Church Members, etc.
+
+## Missionary Training Center
+ - Jamie Lee Heath
+ - 
