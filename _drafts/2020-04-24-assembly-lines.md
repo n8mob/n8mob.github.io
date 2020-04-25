@@ -11,4 +11,8 @@ Let's stick with cars, Henry Ford is famous for bringing assembly-line technique
 
 Before that, car chassis were manufactured and then the bodies were hand-crafted by [coachbuilders](https://en.wikipedia.org/wiki/Coachbuilder). 
 
+...
+
+Long story short: we _are_ an assembly line, but we're not churning out whole products. We're churning out features, or at least pull requests.
+
 [1] https://en.wikipedia.org/wiki/Assembly_line#20th_century
