@@ -79,13 +79,25 @@ Delivery. Continuous. Automation. It started feeling like an assembly line again
 
 And that's where the analogy starts letting us down.
 
+# Building the Assembly Line
+Let us assume that our product is the actual software that is used by our customers.
+We aren't working on the assembly line. Robots and servers are the assembly line.
+
+We're more like the managers and technicians designing and building the assembly line itself.
+We see that the products sometimes flip over upside down when the transition from one conveyor to another one.
+We notice that the expiration date stamper misses every six hundredth bottle.
+We need to go in there and machine a new part, adjust some timing, add a little finger that holds things the right way.
+
+This is a lot more like the machinist manufacturing a die that is able stamp out six hundred thousand identical seat brackets. Some of us design the bracket, some of us design the machine that stamps the bracket, some of us build the die that does the stamping. But we colaborate and work together so all our machines work in harmony to stamp out revenue-generating products.
+
+# Capital Expenditure
+
+Once we're talking _Capital Expenditure_ it's much easier to justify big costs. Those costs get _amortized_ over the life of the product. And if we're churning out millions of page views, we can justify a pretty high expense.
 
 
 
 
 
-
-What if we were selling shrink-wrapped software? How is this like a car? Let's compare the evolution of software delivery to that of automobile assembly.
 
 ## Hand-Crafted
 Olden times software was purpose-built, at the site, on the computer.
@@ -126,6 +138,7 @@ And so on, and so on.
 
 # See Also
 [Assembly Line] https://en.wikipedia.org/wiki/Assembly_line
+[Capital Expenditure] https://en.wikipedia.org/wiki/Capital_expenditure
 [Toyota Production System] https://en.wikipedia.org/wiki/Toyota_Production_System
 [Coachbuilder] https://en.wikipedia.org/wiki/Coachbuilder#Unibody_construction
 [Division of Labor] https://en.wikipedia.org/wiki/Division_of_labour
