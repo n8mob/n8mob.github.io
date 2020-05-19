@@ -86,16 +86,21 @@ We aren't working on the assembly line. Robots and servers are the assembly line
 We're more like the managers and technicians designing and building the assembly line itself.
 We see that the products sometimes flip over upside down when the transition from one conveyor to another one.
 We notice that the expiration date stamper misses every six hundredth bottle.
-We need to go in there and machine a new part, adjust some timing, add a little finger that holds things the right way.
+We need to go in there and machine a new part, adjust some timing, add a little finger that keeps the box upright as it turns a corner.
 
 This is a lot more like the machinist manufacturing a die that is able stamp out six hundred thousand identical seat brackets. Some of us design the bracket, some of us design the machine that stamps the bracket, some of us build the die that does the stamping. But we colaborate and work together so all our machines work in harmony to stamp out revenue-generating products.
 
 # Capital Expenditure
 
-Once we're talking _Capital Expenditure_ it's much easier to justify big costs. Those costs get _amortized_ over the life of the product. And if we're churning out millions of page views, we can justify a pretty high expense.
+Once we're talking _Capital Expenditure_ it's much easier to justify big costs. Those costs get _amortized_ over the life of the product. And if we're churning out millions of page views, we can justify a pretty high expense. (Assuming those page views somehow generate revenue.)
 
+Bug expenditures come in different flavors. One type is the giant project, like constructing an aircraft carrier. Another type of big expenditure that I imagine is a team building a giant limouzine for some Czar's Imperial Garage. Settling for only the finest craftsmanship and materials.
 
+A popular term for over-engineering is "bikeshedding." That's basically what I'm talking about. But let's use a different term for this dichotomy of big spends:
 
+## Aircraft-Carrier Construction
+and
+## Luxury Coachbuilding.
 
 
 
