@@ -51,5 +51,5 @@ So it gets fuzzy if we can't imagine which part of our software represents which
 
 (We are not, however, _The Wolf_; That's Harvey Keitel.)
 
-![Harvey Keitel as Winston Wolfe](mrwolf-ls-coffee.jpg).
+![Harvey Keitel as Winston Wolfe]({{ site.url }}/assets/mrwolf-ls-coffee.jpg).
 
