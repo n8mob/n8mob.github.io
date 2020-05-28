@@ -3,8 +3,6 @@ layout: post
 title: On Dependency Injection
 ---
 
-Dependency Injection
-====================
 # SOLID
 
 ## Single Responsibility
