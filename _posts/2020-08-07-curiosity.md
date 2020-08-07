@@ -8,7 +8,9 @@ Some said they put them back together. Others, not so much. So, I started taking
 Everything I was interested in seemed to be just a bunch of electronic components.
 
 So that was a bust.
+
 Or so I thought.
+
 The truth is, even back then, software was starting to eat the world. It certainly helped me understand that electronics were important. All the things that I thought were interesting had electronics in them. I certainly made that connection.
 
 I think at some point I learned to tell a capacitor from a resistor. But once there were integrated circuits involved, I was in the dark. I could tell a big chip from a little one. But that's about as far as it went.
