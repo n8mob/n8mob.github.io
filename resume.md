@@ -9,14 +9,14 @@ Nate has an intuitive creativity that is hard to come by in engineers.
 Combine this creativity with an uncanny knack for abstraction and you get ingenious technical solutions. Mix in Nate's natural aversion to inefficiency and you end up with truly elegant designs.
 
 # Expert Skills
-Nate has expert skills in **Java 8**, **Web Services**, **C#**, and **.NET**.
+Nate has expert skills in **Web Services** (**Django and Flask**, **Java**, **.NET**).
 
 But his real passions are in the areas of:
 **Mobile Strategy**, and  
 **Software Design** and **Architecture**
 
 # Proficient Skills
-While he wouldn't claim to be an expert, Nate is proficient in **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **Eclipse**, **IntelliJ IDEA**, **Visual Studio**, **NuGet**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
+While he wouldn't claim to be an expert, Nate is proficient in **Python**, **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **NuGet**, **PIP**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
 
 # Current Project
 ## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
@@ -56,6 +56,23 @@ Nate and a friend developed and released a puzzle game to the **Windows Phone** 
 Releasing the **minimum viable product** taught Nate and his friend a lot about **project management** and **prioritization**. While they hoped for greater success for the game, the lessons learned were well worth the effort.
 
 # Software Engineering Work History
+
+## Principal Software Engineer, Newfold Digital (Bluehost)
+### Dec 2019&ndash;
+### Microservices
+New initiatives as well as starving the monolith
+
+#### Content Recommendation System
+**REST Microservice** in **Django** to recommend helpful articles to customers on various pages in  Bluehost's web apps.
+
+The service was so helpful and easy that the marketing team decided to use it to show **Black-Friday Offers** for existing customers.
+
+#### Website Builder Authorization Service
+**Flask** microservice that signed **JSON Web Tokens (JWT)** to authorize users of a new WordPress  web-site builder.
+
+#### Website Builder API Gateway
+**Flask** microservice to front calls to Bluehost's monolith Hosting Platform.
+
 
 ## Developer, Personal Project
 ### Nov 2018&ndash;
