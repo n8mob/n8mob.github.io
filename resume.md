@@ -57,22 +57,20 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 # Software Engineering Work History
 
-## Principal Software Engineer, Newfold Digital (Bluehost)
+## Principal Software Engineer, Newfold Digital ([Bluehost](https://www.bluehost.com/))
 ### Dec 2019&ndash;
-### Microservices
-New initiatives as well as starving the monolith
+**Python** **microservices** for new initiatives as well as starving [Bluehost's](https://www.bluehost.com/) monolith
 
-#### Content Recommendation System
-**REST Microservice** in **Django** to recommend helpful articles to customers on various pages in  Bluehost's web apps.
+## Content Recommendation System
+**REST Microservice** in **Django** to recommend helpful links (such as knowledge-base articles) to customers at various locations in  [Bluehost's](https://www.bluehost.com/) web apps.
 
-The service was so helpful and easy that the marketing team decided to use it to show **Black-Friday Offers** for existing customers.
+The service was so helpful and easy that the marketing team decided to use it to show **Black-Friday Offers** to existing customers.
 
-#### Website Builder Authorization Service
-**Flask** microservice that signed **JSON Web Tokens (JWT)** to authorize users of a new WordPress  web-site builder.
+## Website Builder Authorization Service
+**Flask** microservice that signed **JSON Web Tokens (JWT)** to authorize users of  Bluehost's new [Website Builder for WordPress sites](https://www.bluehost.com/help/article/website-builder-getting-started).
 
-#### Website Builder API Gateway
-**Flask** microservice to front calls to Bluehost's monolith Hosting Platform.
-
+## Website Builder API Gateway
+**Flask** microservice to front calls to [Bluehost's](https://www.bluehost.com/) monolithic Hosting Platform.
 
 ## Developer, Personal Project
 ### Nov 2018&ndash;
