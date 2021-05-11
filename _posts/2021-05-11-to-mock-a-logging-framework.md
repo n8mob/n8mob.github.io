@@ -18,7 +18,7 @@ def isEnabledFor(self, level):
     return self.logger.isEnabledFor(level)
 ```
 
-so - our logger-adapter test was failing because it used a `Mock()` object for the base logger under the ('cause that's how you unit test!)
+so - our logger-adapter test was failing because it used a `Mock()` object for the base logger ('cause that's how you unit test!)
 
 so, `self.logger` is a **Mock**
 
