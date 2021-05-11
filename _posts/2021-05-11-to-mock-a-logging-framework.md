@@ -46,3 +46,4 @@ But back in 3.6 it tries to compare the log levels,
 
 which fails because the mock returns a mock and Python doesn't know how to compare a mock to a log level (which is an int)
 
+Oh - I looked up [the change on GitHub](https://github.com/python/cpython/commit/75f0b5dbac3376a3b36c943ec867c0daed35eb4f?branch=75f0b5dbac3376a3b36c943ec867c0daed35eb4f)
