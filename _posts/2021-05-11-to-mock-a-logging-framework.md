@@ -1,8 +1,21 @@
 ---
 layout: post
 ---
+We were writing a custom `LoggerAdapter`.
 
-# Python LoggerAdapter in 3.6 vs 3.9
+Being unfamiliar with the inner-working of Python logging, we wrote some unit tests.
+
+We learned that our logger-adapter test was failing for one team member.
+
+The only difference we could figure out was that this team member was using Python 3.6 and I was using 3.9.
+
+"That can't make any difference!" I thought.
+
+And since Python is all open-sourcey, I figured I'd look at the implementations and see if they had even changed.
+
+They had.
+
+# LoggerAdapter in 3.6 vs 3.9
 
 ## Python 3.6: logging.LoggerAdapter
 ```python
@@ -18,11 +31,11 @@ def isEnabledFor(self, level):
     return self.logger.isEnabledFor(level)
 ```
 
-so - our logger-adapter test was failing because it used a `Mock()` object for the base logger ('cause that's how you unit test!)
+It turns out, that was because our test used a `Mock()` object for the base logger ('cause that's how you unit test!)
 
-so, `self.logger` is a **Mock**
+So, `self.logger` references a **Mock**.
 
-In 3.6, the code compares `level >= self....`
+In 3.6, the code compares `level >= self.getEffectiveLevel()`
 In 3.9 the code just returns whatever the base says (which in our case is another **Mock**)
 
 in the `log(...)` method, the 3.9 code just asks: `if self.isEnabledFoor(level):`
