@@ -1,4 +1,7 @@
 # -*- mode: gitignore; -*-
+
+.jekyll-cache/
+
 .DS_Store
 *~
 \#*\#
