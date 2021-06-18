@@ -4,7 +4,7 @@ title: Proti's character arc
 categories: MAGiE
 ---
 
-[Base Outline](2020-06-07-draft-outline.md)
+[Base Outline]({% post_url 2020-06-07-draft-outline %})
 [Character-Arc Article](https://writersedit.com/fiction-writing/create-compelling-characters-character-arcs/)
 
 A coming-of-age story with character vs machine... or environment.
