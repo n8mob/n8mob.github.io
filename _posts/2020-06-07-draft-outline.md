@@ -4,7 +4,7 @@ title: Draft Outline, June 2020
 categories: MAGiE
 ---
 
-[Proti gets device in class](2019-07-08-mrs-briggs-class.md)
+[Proti gets device in class]({% post_url 2019-07-08-mrs-briggs-class %})
 
 Over time, Proti gets familiar with it.
 
