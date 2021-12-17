@@ -12,6 +12,6 @@ He hates waiting for his messages and news to load, so he configures half of his
 
 Now that that's working, he threads his gradebook to his local tapeloop. He has already calculated and encoded the grades, so all he has to do is record them. He goes through the class roll, student by student. Pulls up the record, toggles in the grade, and fast-forwards to the next student.
 
-He enters the last student's grade rewinds the gradebook tape. Then he starts reading the news. Ah! The day's top stories have almost finished loading to memory. They should finish loading before he finishes reading.
+He enters the last student's grade and then re-winds the gradebook tape. Then he starts reading the news. Ah! The day's top stories have almost finished loading to memory. They should finish loading before he finishes reading.
 
 ... to be continued
