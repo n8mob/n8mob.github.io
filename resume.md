@@ -57,8 +57,12 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 
 # Software Engineering Work History
 
+## Senior Software Engineer, [ReliaQuest](https://www.reliaquest.com)
+### Aug 2021 &ndash; March 2022
+**Java Microservices** with **Spring Boot** and **Spring JDBC** deployed to **AWS**
+
 ## Principal Software Engineer, Newfold Digital ([Bluehost](https://www.bluehost.com/))
-### Dec 2019&ndash;
+### Dec 2019 &ndash; Aug 2021
 **Python** **microservices** for new initiatives as well as starving [Bluehost's](https://www.bluehost.com/) monolith
 
 ## Content Recommendation System
