@@ -73,7 +73,7 @@ Releasing the **minimum viable product** taught Nate and his friend a lot about 
 ### August 2021&ndash;March 2022
 **Java** microservices built with **Spring Boot**, **Spring MVC**, and **PostgreSQL** (deployed to **AWS**).
 
-Nate was the "Squad Lead" for a full-stack team of front-end and back-end developers. The project was to port an internal, employee-facing application to be part of ReliaQuest's main application "GreyMatter".
+Nate was the "Squad Lead" for a full-stack team of front-end and back-end developers. The project was to port an internal, employee-facing application to be part of ReliaQuest's main application, "GreyMatter".
 
 Nate and the team worked with ReliaQuest's Data Engineering team to set up jobs to transfer the data from the active internal app into a **PostgreSQL** database where their micro-service would serve it to the front end. The front-end developers on the team built components to display the information to the users of the GreyMatter web app.
 
