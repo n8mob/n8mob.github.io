@@ -14,7 +14,7 @@ title: Hi, I'm n8!
     <p>I realized that if I had tried to do the magazine myself, even if I had gotten the National Geographic cover looking good, I would have run out of steam before I finished the magazine. I imagined a 3rd grader's crayon-rendered magazine. If it had a beginning, middle, and end, it would be superior to my "excellent" beginning.</p>
     <p>And so, I make an imperfect website.</p>
     <h1>Some Posts</h1>
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <a href="{{ post.url }}" class="index-link">
         <p>
             <h2>{{ post.title }}</h2>
@@ -24,4 +24,23 @@ title: Hi, I'm n8!
         </p>
     </a>
     {% endfor %}
+    <div class="pagination">
+        {% if paginator.previous_page %}
+        <h2 class="nav-prev">
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        </h2>
+        {% else %}
+        <h2 class="nav-prev" >Previous</span>
+        {% endif %}
+        <h2 class="page-number">
+            Page: {{ paginator.page }} of {{ paginator.total_pages }}
+        </h2>
+        {% if paginator.next_page %}
+        <h2 class="nav-next">
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        </h2>
+        {% else %}
+        <h2 class="nav-next">Next</h2>
+        {% endif %}
+    </div>
 </body>

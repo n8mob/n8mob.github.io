@@ -9,20 +9,25 @@ Nate has an intuitive creativity that is hard to come by in engineers.
 Combine this creativity with an uncanny knack for abstraction and you get ingenious technical solutions. Mix in Nate's natural aversion to inefficiency and you end up with truly elegant designs.
 
 # Expert Skills
-Nate has expert skills in **Web Services** (**Django and Flask**, **Java**, **.NET**).
+Nate has expert skills in **Design** and **Implementation** of **Web Services**.
+
+Both **microservices** and other **REST Web Services**
+
+Implemented in **Java** (**Spring**), **Django**, **Flask**, and **.NET**
 
 But his real passions are in the areas of:
 **Mobile Strategy**, and  
 **Software Design** and **Architecture**
 
 # Proficient Skills
-While he wouldn't claim to be an expert, Nate is proficient in **Python**, **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **NuGet**, **PIP**, **Microservices**, **Scrum**, **Lean Development**, and **Oxford Commas**
+While he wouldn't claim to be an expert, Nate is proficient in **Python**, **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **NuGet**, **PIP**, **Scrum**, **Lean Development**, and **Oxford Commas**
 
 # Current Project
+### (When free-time allows)
 ## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
 ### Nov 2018&ndash;Present
 
-Nate just released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
+Nate released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
 
 While managing beta tests and releases, Nate earned a new respect for continuous delivery and release management!
 
@@ -32,22 +37,28 @@ It's lots of fun, you should try it!
 
 [https://magiegame.com/magie/](https://magiegame.com/magie/)
 
+
 # Past Mobile Projects
 
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
 ### 2014
-While working to convert the main website from **SharePoint 2010** to the **Sitecore** *content management system (CMS)*, a new feature was being developed in the company's native mobile apps. Nate quickly exposed content from the CMS as **JSON** output so the mobile developers could deliver their feature on time.
+While working to convert the main website from **SharePoint 2010** to the **Sitecore content management system (CMS)**, a new feature was being developed in the company's native mobile apps. Nate quickly exposed content from the **CMS** as **JSON** output so the mobile developers could deliver their feature on time.
+
 
 ## Mobile Web Application for booking flights
 ### 2010&ndash;2012
 Nate built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. Nate proposed polishing the prototype web app and the customer agreed.
 
-During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
+Nate led a revolving team of developers to polish the web app for production use at a major airline. As the project was ramping up, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores.
+
+As development continued on the mobile web app, Nate and the others worked with developers at the airline who built native apps with web controls to wrap the mobile web app.
+
 
 ## [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
 ### Application Filed May 2011
 
 This patent illustrates Nate's ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
+
 
 ## Mobile Game in the Windows Phone marketplace
 ### 2011
@@ -55,30 +66,40 @@ Nate and a friend developed and released a puzzle game to the **Windows Phone** 
 
 Releasing the **minimum viable product** taught Nate and his friend a lot about **project management** and **prioritization**. While they hoped for greater success for the game, the lessons learned were well worth the effort.
 
+
 # Software Engineering Work History
 
-## Senior Software Engineer, [ReliaQuest](https://www.reliaquest.com)
-### Aug 2021 &ndash; March 2022
-**Java Microservices** with **Spring Boot** and **Spring JDBC** deployed to **AWS**
+## Senior Software Engineer, ReliaQuest
+### August 2021&ndash;March 2022
+**Java** microservices built with **Spring Boot**, **Spring MVC**, and **PostgreSQL** (deployed to **AWS**).
 
-## Principal Software Engineer, Newfold Digital ([Bluehost](https://www.bluehost.com/))
-### Dec 2019 &ndash; Aug 2021
-**Python** **microservices** for new initiatives as well as starving [Bluehost's](https://www.bluehost.com/) monolith
+Nate was the "Squad Lead" for a full-stack team of front-end and back-end developers. The project was to port an internal, employee-facing application to be part of ReliaQuest's main application "GreyMatter".
 
-## Content Recommendation System
-**REST Microservice** in **Django** to recommend helpful links (such as knowledge-base articles) to customers at various locations in  [Bluehost's](https://www.bluehost.com/) web apps.
+Nate and the team worked with ReliaQuest's Data Engineering team to set up jobs to transfer the data from the active internal app into a **PostgreSQL** database where their micro-service would serve it to the front end. The front-end developers on the team built components to display the information to the users of the GreyMatter web app.
 
-The service was so helpful and easy that the marketing team decided to use it to show **Black-Friday Offers** to existing customers.
 
-## Website Builder Authorization Service
+## Principal Software Engineer, Newfold Digital
+### A.K.A. Bluehost
+### Dec 2019&ndash;Aug 2021
+**Python**, **Django**, **Flask**, **Microservices**, **JSON Web Tokens (JWT)**
+Nate was a Tech Lead on a team with 4 fellow developers as they built a **Django** microservice from scratch and inherited two **Flask** microservices.
+
+### Content Recommendation System
+**REST Microservice** in **Django** to recommend helpful links (such as knowledge-base articles) to customers at various page locations in [Bluehost's](https://www.bluehost.com/) web apps.
+
+The service was so helpful and easy to use that the marketing team decided to use it to show **Black-Friday Offers** to existing customers.
+
+### Website Builder Authorization Service
 **Flask** microservice that signed **JSON Web Tokens (JWT)** to authorize users of  Bluehost's new [Website Builder for WordPress sites](https://www.bluehost.com/help/article/website-builder-getting-started).
 
-## Website Builder API Gateway
+### Website Builder API Gateway
 **Flask** microservice to front calls to [Bluehost's](https://www.bluehost.com/) monolithic Hosting Platform.
+
 
 ## Developer, Personal Project
 ### Nov 2018&ndash;
 See [MAGiE](#current-mobile-project) above
+
 
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;2018
@@ -91,6 +112,7 @@ All this while implementing new features and helping the team raise their standa
 
 ### Java 8, JAX-RS, REST, Micro-Services, Spring Dependency Injection, Maven
 
+
 ## Senior Software Engineer, Intermountain Healthcare
 ### 2014&ndash;2015
 Non-Profit Healthcare Provider
@@ -98,16 +120,19 @@ Non-Profit Healthcare Provider
 Nate worked with the web team implementing the company's main user-facing web site.
 ### Sitecore Content Management System (CMS)
 
+
 ## Senior Software Engineer, RedBell Real Estate
 ### 2013&ndash;2014
 Real-Estate Services company
 ### ASP.NET Web Forms
+
 
 ## Senior Consultant, Application Development, Avanade Inc.
 ### 2006&ndash;2013
 IT Consulting joint venture from Accenture and Microsoft
 
 Most of Nate's time with Avanade was spent in Professional Services at Navitaire, an airline reservations company. Navitaire Professional Services assists airlines with implementation and customization of Navitaire's reservations platform. Nate mostly worked with airline web developers customizing various aspects of their booking flow.
+
 
 ## Software Developer in Test, Control4
 ### 2004&ndash;2006
@@ -116,20 +141,16 @@ Home-automation startup
 Testing hardware and software at a home-automation startup.
 ### Embedded Linux, C, C++, Custom Test Automation Software in C\#
 
+
 ## Software Engineer, ThoughtLab
 ### 2002&ndash;2004
 Custom web applications
 ### ASP.NET 1.0, 1.1
 
+
 # Education
 
 ## Bachelor of Science, Computer Science<br />University of Utah
 ### 2002&ndash;2006
-
-## Utah State University
-### 1997
-
-## Salt Lake Community College
-### 1996&ndash;1998
 
 ## work in progress... more to come.

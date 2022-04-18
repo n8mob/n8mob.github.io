@@ -1,3 +1,8 @@
 title: nategrigg.com
 permalink: /:categories/:year/:short_month/:title.html
 markdown: kramdown
+paginate: 15
+paginate_path: "/page:num/"
+
+plugins:
+  - jekyll-paginate

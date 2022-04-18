@@ -140,10 +140,16 @@ footer h2 {
 
 .nav-prev {
   margin-inline-end: 15px;
+  display: inline;
 }
 
 .nav-next {
   margin-inline-start: 15px;
+  display: inline;
+}
+
+.page-number {
+  display: inline;
 }
 
 .subhead {

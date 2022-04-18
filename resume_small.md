@@ -18,10 +18,30 @@ While he wouldn't claim to be an expert, Nate is proficient in **REST/HATEOS**, 
 
 # Employment History
 
-## MAGiE - Personal Project - Mobile Puzzle Game
-### Nov 2018&ndash;Present
+## Senior Software Engineer, ReliaQuest
+### August 2021&ndash;March 2022
+**Java** microservices built with **Spring Boot**, **Spring MVC**, and **PostgreSQL** (deployed to **AWS**).
+
+Nate was the "Squad Lead" for a full-stack team of front-end and back-end developers. The project was to port an internal, employee-facing application to be part of ReliaQuest's main application "GreyMatter".
+
+Nate and the team worked with ReliaQuest's Data Engineering team to set up jobs to transfer the data from the active internal app into a **PostgreSQL** database where their micro-service would serve it to the front end. The front-end developers on the team built components to display the information to the users of the GreyMatter web app.
+
+## Principal Software Engineer, Newfold Digital
+### A.K.A. Bluehost
+### Dec 2019&ndash;July 2021
+**Python**, **Django**, **Flask**, **Microservices**, **JSON Web Tokens (JWT)**
+Tech Lead on a team with 4 fellow developers as we built a **Django Microservice** from scratch..
+
+The app served recommendations for **Knowledge-Base** articles to customers based on the status of their web-hosting account.
+
+The team also inherited two **Flask** services that assigned permissions for a web app and then issued them in **JSON Web Tokens (JWTs)**.
+
+## MAGiE, a Personal Project (Mobile Puzzle Game)
+### Nov 2018&ndash;Oct 2019
 ### [magiegame.com](https://magiegame.com/magie/)
-**C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **Apple App Store**, **Google Play Store**
+Built a mobile puzzle game about **Binary Encoding**.
+
+**C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **iOS App Store**, **Google Play Store**
 
 ## Senior Software Engineer, Ancestry Inc.
 ### Apr 2015&ndash;Dec 2018
@@ -57,31 +77,3 @@ While he wouldn't claim to be an expert, Nate is proficient in **REST/HATEOS**, 
 ## Also Attended
 ### Utah State University, 1997
 ### Salt Lake Community College, 1996&ndash;1998
-
-# Project Highlights
-
-## Monolith Break-Up and conversion to Micro Services
-### Ancestry 2016&ndash;2018
-The Commerce department at Ancestry was already working on replacing a few large **monoliths** with smaller services. They were using that project as a springboard to be one of the first departments at Ancestry to switch from **.NET** to **Java**. Nate and some other colleagues joined Commerce all at once. This overloaded the **code review workflow**. Specifically, it introduced a lot of merge conflicts due to simultaneous work being done by many developers.
-
-One the solution was to break up one of the new Java services into three _even smaller_ micro services. This reduced merge conflicts from unrelated code changes by moving unrelated code into different code-bases.
-
-At the same time, the team worked to "lift and shift" all of these services: the **monolithic** and the **micro** services, as well as the in-between **"mini"** services.
-
-All this while implementing new features, raising standards for software excellence, and improving delivery times for new features.
-
-### Java 8, JAX-RS, REST, Micro-Services, Spring Dependency Injection, Maven
-
-## Mobile Web Application for booking flights
-### 2010&ndash;2012
-Nate built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. Nate proposed polishing the prototype web app and the customer agreed.
-
-During the polishing project, the CEO of the Airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores. While development continued on the mobile web app, developers working for the airline built native apps with web controls to wrap the mobile web app.
-
-## Patent for "One-Click Booking" for A Bus Ride
-### 2010&ndash;2011
-[US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
-While making a proof-of-concept for a customer pitch, Nate and his colleagues at *Navitaire* made a web app that would allow a bus driver to reserve and sell a seat on the bus with a single swipe of a credit card. Accenture decided to patent it.
-
-Long story short: the app already knows the route based on driver schedule, GPS, or some other input. So the app already knows the destination. The bus driver tells the app which stop they are at, (or it figures it out from GPS readings) so the app knows the origin of the reservation. Buses don't have stringent identification requirements, so passenger information does not need to be collected at the time of sale. So all the driver has to do is take the money and the reservation is made.
-
