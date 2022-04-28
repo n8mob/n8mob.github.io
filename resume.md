@@ -22,10 +22,10 @@ But his real passions are in the areas of:
 # Proficient Skills
 While he wouldn't claim to be an expert, Nate is proficient in **Python**, **JAX-RS**, **ASP.NET MVC**, **.NET Core**, **Maven**, **NuGet**, **PIP**, **Scrum**, **Lean Development**, and **Oxford Commas**
 
-# Current Project
-### (When free-time allows)
+# Mobile Projects
+
 ## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
-### Nov 2018&ndash;Present
+### Nov 2018&ndash;Present (When free-time allows)
 
 Nate released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. He has built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on his Mac, he has learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and he has been learning the **JetBrains Rider** IDE to make his life easier.
 
@@ -37,8 +37,6 @@ It's lots of fun, you should try it!
 
 [https://magiegame.com/magie/](https://magiegame.com/magie/)
 
-
-# Past Mobile Projects
 
 ## REST endpoint to provide mobile app with content from Sitecore Content Management System
 ### 2014
