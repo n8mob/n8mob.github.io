@@ -8,7 +8,7 @@ It is the one-year anniversary of my post regarding the things about which I am 
 
 I'm still looking for that dream job.
 
-In the mean time, I'm reading [Neal Stephenson's](http://www.nealstephenson.com/) _[Fall; or Dodge in Hell](ads.harpercollins.com/athrfb?isbn=9780062458711&retailer=amazon&locale=US)_.
+In the mean time, I'm reading [Neal Stephenson's](http://www.nealstephenson.com/) _[Fall; or Dodge in Hell](http://ads.harpercollins.com/athrfb?isbn=9780062458711&retailer=amazon&locale=US)_.
 
 In the book I am reminded of the concept of **weird stuff** from _[REAMDE](https://www.amazon.com/Reamde-Novel-Neal-Stephenson/dp/0062191497)_. It was not my clever recollection that reminded me, but a solid page or so where the concept is explained.
 

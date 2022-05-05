@@ -142,7 +142,7 @@ Testing hardware and software at a home-automation startup.
 
 ## Software Engineer, ThoughtLab
 ### 2002&ndash;2004
-Custom web applications
+Custom web applications using the Lean Development methodology
 ### ASP.NET 1.0, 1.1
 
 
@@ -151,4 +151,4 @@ Custom web applications
 ## Bachelor of Science, Computer Science<br />University of Utah
 ### 2002&ndash;2006
 
-## work in progress... more to come.
+## this resume is a work in progress... more to come.
