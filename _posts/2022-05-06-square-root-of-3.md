@@ -24,7 +24,6 @@ I worked out this little script:
 
 ```python
 decimal.getcontext().prec = 1000
-three = decimal.Decimal(3)
 representation = '1.732050807568877293527446341505872366942805253810380628055806979451'
 
 previous_candidate = 0
