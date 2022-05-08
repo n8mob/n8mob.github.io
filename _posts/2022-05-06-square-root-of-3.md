@@ -47,10 +47,15 @@ At some point we ran out of digits on the print of the result so I looked up the
 
 By the time I got bored we had already gotten to, like 170 digits.
 
-At that point I said, "I'm fairly certain that the square root of 3 is irrational." So we looked that up and someone had indeed proved it, but I didn't have the patience to read the proof. So we found [a million digits](https://apod.nasa.gov/htmltest/gifcity/sqrt3.1mil) and verified that our 170 matched!
+At that point I said, "I'm fairly certain that the square root of 3 is irrational."
+Thomas asked, "what does irrational mean?"
+I did my best to explain it. When I said something about decimals going on forever he said, "like pi?"
+And I said, "exactly like pi. Pi is irrational."
+
+Then we looked it up and someone had indeed proved it, but I didn't have the patience to read the proof. So we found [a million digits](https://apod.nasa.gov/htmltest/gifcity/sqrt3.1mil) and verified that our 170 matched!
 
 ```python
     representation = '1.73205080756887729352744634150587236694280525381038062805580697945193301690880003708114618675724857567562614141540670302996994509499895247881165551209437364852809323190230558'
 ```
 
-I think my six-year-old son was right: this _is_ cool!
+I think my (probably genius) six-year-old son was right: this _is_ cool!
