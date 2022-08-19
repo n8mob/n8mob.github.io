@@ -67,7 +67,7 @@ Back-end microservices, **Go**, **Kafka**, **PostgreSQL**, **Google Cloud Platfo
 ## Principal Software Engineer, Newfold Digital
 ### A.K.A. Bluehost
 ### Dec 2019&ndash;Aug 2021
-**Python**, **Django**, **Flask**, **Microservices**, **JSON Web Tokens (JWT)**, **Red Had OpenShift**
+**Python**, **Django**, **Flask**, **Microservices**, **JSON Web Tokens (JWT)**, **Red Hat OpenShift**
 Nate was a Tech Lead on a team with 4 fellow developers as they built a **Django** microservice from scratch and inherited two **Flask** microservices.
 
 ## Developer, Personal Project
