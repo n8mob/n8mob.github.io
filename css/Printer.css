@@ -44,34 +44,35 @@ table {
 }
 
 td {
-    vertical-align: top;
-    font-family: 'sutro', serif;
+  vertical-align: top;
+  font-family: 'sutro', serif;
 }
 
 h1.title {
-    font-size: 500%;
+  font-size: 300%;
 }
 
 h1 {
-    font-size: 200%;
-    font-weight: normal;
-    text-transform: uppercase;
-    max-width: 640px;
+  font-size: 200%;
+  font-weight: normal;
+  text-transform: uppercase;
+  max-width: 640px;
+  clear: both;
 }
 
 h2.subtitle {
-    color: FireBrick;
-    font-weight: normal;
-    margin-top: -1.7em;
-    margin-bottom: -0.6em;
+  color: FireBrick;
+  font-weight: normal;
+  margin-top: -1.7em;
+  margin-bottom: -0.6em;
 }
 
 h2 {
-    color: FireBrick;
-    font-size: 130%;
-    font-weight: normal;
-    margin-top: 0.7em;
-    margin-bottom: -0.6em;
+  color: FireBrick;
+  font-size: 130%;
+  font-weight: normal;
+  margin-top: 0.7em;
+  margin-bottom: -0.6em;
 }
 
 h3 {
@@ -80,17 +81,29 @@ h3 {
   font-weight: normal;  
 }
 
+.job h2 {
+  float: left;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+}
+
+.job h3 {
+  float: right;
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+}
+
 img {
-    max-width: 93%;
-    border: solid black 1.5px;
-    display: block;
-    margin: 4em auto;
-    page-break-inside: avoid;
-    position: relative;
+  max-width: 93%;
+  border: solid black 1.5px;
+  display: block;
+  margin: 4em auto;
+  page-break-inside: avoid;
+  position: relative;
 }
 
 .scale {
-    width: 93%;
+  width: 93%;
 }
 
 li {
@@ -114,12 +127,13 @@ a.index-link {
 }
 
 p {
-    font-family: 'sutro', serif;
-    font-size: medium;
+  font-family: 'sutro', serif;
+  font-size: medium;
+  clear: both;
 }
 
 .postscript {
-    bottom: 0;
+  bottom: 0;
 }
 
 footer cite {
@@ -137,11 +151,11 @@ footer h2 {
 }
 
 .nav-prev {
-    display: none;
+  display: none;
 }
 
 .nav-next {
-    display: none;
+  display: none;
 }
 
 .subhead {
