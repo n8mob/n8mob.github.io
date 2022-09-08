@@ -32,7 +32,9 @@ Tech Lead on a team with 4 fellow developers. Built and inherited 3 microservice
 ## MAGiE, a Personal Project (Mobile Puzzle Game)
 ### Nov 2018&ndash;Oct 2019
 </div>
-### [magiegame.com](https://magiegame.com/magie/)
+
+**[magiegame.com](https://magiegame.com/magie/)**
+
 Built a mobile puzzle game about **Binary Encoding**.
 
 **C# 7**, **.Net Core** on Mac, **NuGet**, **Component-Oriented Design**, **iOS App Store**, **Google Play Store**
