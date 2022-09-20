@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Square Root of 3
-categories: programming, mathematics, parenting
+categories: [programming, mathematics, parenting]
 ---
 
 A few months ago learned from some blog post or article that you can refine an approximate square root by averaging a too-high guess with a too-low guess.
