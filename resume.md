@@ -21,6 +21,17 @@ I have 20 years of development experience, and an intuitive creativity that is h
 - **ASP.NET MVC**
 - **.NET Core**
 - **Lean Development**
+- **SQLite3**
+- **PostgreSQL**
+- **MySQL**
+- **JetBrains IDE's** (**PyCharm**, **IntelliJ IDEA**, **Rider**, **Android Studio**)
+- **SwiftUI**
+- **Go**
+- **Kafka**
+- **Docker**
+- **AWS**
+- **Elastic Beanstalk**
+- **RDS**
 
 # Work History
 
