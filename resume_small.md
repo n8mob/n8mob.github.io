@@ -11,6 +11,13 @@ Combine this creativity with an uncanny knack for abstraction and you get ingeni
 # Work History
 
 <div class="job" markdown="1">
+## Senior Software Engineer, Merit International
+### May 2022&ndash;August 2022
+Working on the "Platform Team" building back end micro-services
+
+**Go**, **Kafka**, **PostgreSQL**
+
+<div class="job" markdown="1">
 ## Senior Software Engineer, ReliaQuest
 ### August 2021&ndash;March 2022
 </div>
