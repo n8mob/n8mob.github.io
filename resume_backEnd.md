@@ -88,6 +88,8 @@ It's lots of fun, you should try it!
 
 [https://magiegame.com/magie/](https://magiegame.com/magie/)
 
+More recently, I have implemented a **Django** app to (1) make creating and modifying puzzles easier and (2) to serve new puzzles to the game without having to redeploy the app to the app store or even upload a new JSON file to a web site.
+
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;2018
 **Java 8**, **JAX-RS**, **REST**, **Microservices**, **Spring Dependency Injection**, **Maven**
@@ -95,14 +97,14 @@ It's lots of fun, you should try it!
 ### 2016&ndash;2018 Monolith BreakUp and conversion to Microservices
 ### Commerce department at Ancestry
 
-The whole department was working on replacing a suite of monolithic **.NET** services with Java "**mini**&zwnj;services". Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended.
+The whole department was working on replacing a suite of monolithic **.NET** services with **Java 8** "**mini**&zwnj;services". Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended.
 
 So, while the larger team worked on implementing new features and breaking up the **monolith**, a smaller team (including me) also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The department also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to the **AWS** cloud.
 
 All this while implementing new features and helping the team raise their standards for software excellence. I have written up some case studies about some of this work - *ask me for details!*
 
 ### 2015&ndash;2016 Cross-cut Solutions Team
-Audited Ancestry's services catalog and assisted teams to integrate their services with the proprietary **Application Performance Monitoring (APM)** solution.
+I audited Ancestry's services catalog and assisted teams to integrate their services with the proprietary **Application Performance Monitoring (APM)** solution.
 
 Converted a **.NET Microservice** to **Java 8**
 
