@@ -75,7 +75,7 @@ One of the **Flask** microservice that we inherited signed **JSON Web Tokens (JW
 We also inherited another **Flask** microservice that routed calls from the new builder back to [Bluehost's](https://www.bluehost.com/) monolithic Hosting Platform.
 
 
-## Developer, Personal Project
+## Developer, Personal Project: MAGiE
 ### Nov 2018&ndash;Oct 2019, Ongoing
 
 I released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. While implementing it, I built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on my Mac, I learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and the **JetBrains Rider** IDE to make life easier.
@@ -163,11 +163,6 @@ Custom web applications using the Lean Development methodology
 I immensely enjoyed an on-site visit to one of our customers: a furniture-manufacturing company. Visiting with the people at the company taught us so much about their business and their needs. We really gave them the best features within the project schedule.
 
 ### ASP.NET 1.0, 1.1
-
-# Mobile Projects
-
-## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
-### Nov 2018&ndash;Present (When free-time allows)
 
 # Education
 
