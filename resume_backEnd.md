@@ -7,8 +7,8 @@ title: Nate Grigg - Expert Skills
 I have 20 years of development experience, and an intuitive creativity that is hard to come by in engineers. Combining my creativity with an uncanny knack for abstraction leads me to ingenious technical solutions. Mixing in my natural aversion to inefficiency brings us to truly elegant designs.
 
 # Skills/Technologies
-- **Digital**/**Mobile** Strategy (See [Mobile Projects](#mobile-projects) below)
 - **Design** and **Implementation** of **Applications** and **Web Services**
+- **Digital**/**Mobile** Strategy
 - **microservices**
 - **REST Web Services**
 - **Java**
