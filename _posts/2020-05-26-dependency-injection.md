@@ -37,7 +37,9 @@ It's up to the boss if the button:
 - Pages the on-call team, or
 - Sends a cell-phone call to ***The Wolf***."
 
-(You're sending The Wolf? $#@!, Negro - that's all you had to _say!_)
+> You're sending The Wolf?  
+> $#@!, Negro - that's all you had to _say!_  
+> &emsp;&emsp;&mdash; Jules Winnfield
 
 We _depend_ on that button working. But we _invert_ who _controls_ it and let them _inject_ it into our system.
 
