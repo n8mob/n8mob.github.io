@@ -7,8 +7,8 @@ title: Nate Grigg - Expert Skills
 I have 20 years of development experience, and an intuitive creativity that is hard to come by in engineers. Combining my creativity with an uncanny knack for abstraction leads me to ingenious technical solutions. Mixing in my natural aversion to inefficiency brings us to truly elegant designs.
 
 # Skills/Technologies
-- **Digital**/**Mobile** Strategy (See [Mobile Projects](#mobile-projects) below)
 - **Design** and **Implementation** of **Applications** and **Web Services**
+- **Digital**/**Mobile** Strategy
 - **microservices**
 - **REST Web Services**
 - **Java**
@@ -75,15 +75,20 @@ One of the **Flask** microservice that we inherited signed **JSON Web Tokens (JW
 We also inherited another **Flask** microservice that routed calls from the new builder back to [Bluehost's](https://www.bluehost.com/) monolithic Hosting Platform.
 
 
-## Developer, Personal Project
+## Developer, Personal Project: MAGiE
 ### Nov 2018&ndash;Oct 2019, Ongoing
 
-- Built a puzzle app built with the **Unity** game engine
-- Released it to Apple's iOS App Store
-- Released it to Google's Play Store
+I released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. While implementing it, I built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on my Mac, I learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and the **JetBrains Rider** IDE to make life easier.
 
-See [MAGiE](#magie-magnetic-interactive-explorer) below
+While managing beta tests and releases, I earned a new respect for continuous delivery and release management!
 
+The game is called MAGiE, short for MAGnetic Interactive Explorer. The premise is that you have this device that reads binary data from a mag-stripe like on a credit card. The game then presents you with puzzles where you have to decode the bits to read a message, or encode bits to answer a puzzle.
+
+It's lots of fun, you should try it!
+
+[https://magiegame.com/magie/](https://magiegame.com/magie/)
+
+More recently, I have implemented a **Django** app to (1) make creating and modifying puzzles easier and (2) to serve new puzzles to the game without having to redeploy the app to the app store or even upload a new JSON file to a web site.
 
 ## Senior Software Engineer, Ancestry, Inc. 
 ### 2015&ndash;2018
@@ -92,14 +97,14 @@ See [MAGiE](#magie-magnetic-interactive-explorer) below
 ### 2016&ndash;2018 Monolith BreakUp and conversion to Microservices
 ### Commerce department at Ancestry
 
-The whole department was working on replacing a suite of monolithic **.NET** services with Java "**mini**&zwnj;services". Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended.
+The whole department was working on replacing a suite of monolithic **.NET** services with **Java 8** "**mini**&zwnj;services". Aiming to build **micro**&zwnj;services, the team ended up building services that were a little larger than intended.
 
 So, while the larger team worked on implementing new features and breaking up the **monolith**, a smaller team (including me) also worked on breaking the **mini**&zwnj;services into **micro**&zwnj;services. The department also spent the last year "lifting and shifting" all of these services (**micro**, **mini**, and **monolithic**) to the **AWS** cloud.
 
 All this while implementing new features and helping the team raise their standards for software excellence. I have written up some case studies about some of this work - *ask me for details!*
 
 ### 2015&ndash;2016 Cross-cut Solutions Team
-Audited Ancestry's services catalog and assisted teams to integrate their services with the proprietary **Application Performance Monitoring (APM)** solution.
+I audited Ancestry's services catalog and assisted teams to integrate their services with the proprietary **Application Performance Monitoring (APM)** solution.
 
 Converted a **.NET Microservice** to **Java 8**
 
@@ -158,49 +163,6 @@ Custom web applications using the Lean Development methodology
 I immensely enjoyed an on-site visit to one of our customers: a furniture-manufacturing company. Visiting with the people at the company taught us so much about their business and their needs. We really gave them the best features within the project schedule.
 
 ### ASP.NET 1.0, 1.1
-
-# Mobile Projects
-
-## [MAGiE: MAGnetic Interactive Explorer](https://magiegame.com/magie/)
-### Nov 2018&ndash;Present (When free-time allows)
-
-I released a mobile game, built using the [**Unity**](https://unity3d.com/unity) game engine with **C#** scripting. While implementing it, I built a [small library](https://github.com/n8mob/alpha) for the underlying bit manipulation and used [**NuGet**](https://www.nuget.org/packages/com.corporealabstract.alpha.lib/) to manage that dependency in the **Unity** project. Working on my Mac, I learned about [**dotnet core**](https://docs.microsoft.com/en-us/dotnet/core/about) and the **JetBrains Rider** IDE to make life easier.
-
-While managing beta tests and releases, I earned a new respect for continuous delivery and release management!
-
-The game is called MAGiE, short for MAGnetic Interactive Explorer. The premise is that you have this device that reads binary data from a mag-stripe like on a credit card. The game then presents you with puzzles where you have to decode the bits to read a message, or encode bits to answer a puzzle.
-
-It's lots of fun, you should try it!
-
-[https://magiegame.com/magie/](https://magiegame.com/magie/)
-
-
-## REST endpoint to provide mobile app with content from Sitecore Content Management System
-### 2014
-While staffing a project to convert the main website from **SharePoint 2010** to the **Sitecore content management system (CMS)**, a new feature was being developed in the company's native mobile apps. I quickly exposed content from the **CMS** as **JSON** output so the mobile developers could deliver their feature on time.
-
-
-## Mobile Web Application for booking flights
-### 2010&ndash;2012
-I had built a prototype **Mobile Web Application** for making airline reservations using *Navitaire's* **New Skies** reservation system. One of Navitaire's major European customers needed a mobile booking flow *yesterday*. I proposed polishing the prototype web app and the customer agreed.
-
-I led a revolving team of developers to polish the web app for production use at a major airline. As the project was ramping up, the CEO of the airline insisted that the mobile booking flow be accessible from **Android** and **iOS** *apps* in the app stores.
-
-As we continued developing the mobile web app, I worked with developers at the airline who built native apps with web controls to wrap the mobile web app.
-
-
-## [US Patent 8942991B2: Agent-side traveler application for mobile computing devices](https://patents.google.com/patent/US8942991B2/en)
-### Application Filed May 2011
-
-This patent illustrates my ability to reduce complexity. Here, the steps of finding a bus route, selecting a destination, booking a ticket, and collecting payment are reduced to a single swipe of a credit card.
-
-
-## Mobile Game in the Windows Phone marketplace
-### 2011
-My buddy filled the game-designer role, and I developed and released a puzzle game to the **Windows Phone** marketplace. I found many exciting technical challenges including programming animations and subtle interactions in the **Windows Phone** flavor of **Silverlight**.
-
-Releasing the **minimum viable product** taught us a lot about **project management** and **prioritization**. While we had hoped for greater success for the game, the lessons learned were well worth the effort.
-
 
 # Education
 
