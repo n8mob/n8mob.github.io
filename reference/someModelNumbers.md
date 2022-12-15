@@ -29,6 +29,11 @@ One side had a latch and the other a hinge. Undo the latch, and the whole back o
 
 Trying to remember the make so I can try to find the model.
 
+I was almost certain that it was Panasonic.
+
+I finally typed in “National Panasonic” and I think I found it!  
+National Model RS-264S
+
 ## Fisher-Price #826
 [Brown Fisher Price ~~Cassette~~ Tape Recorder](http://www.thisoldtoy.com/l_fp_set/toy-pages/800-899/826-fisherprictaperecorder.html)
 
