@@ -13,6 +13,7 @@ Combine this creativity with an uncanny knack for abstraction and you get ingeni
 <div class="job" markdown="1">
 ## Staff Software Engineer, Ancestry Inc.
 ### Nov 2022&ndash;March 2024
+</div>
 Working in the Enterprise Data Management department.
 
 **Java**, **AWS Redshift**, **Apache Spark**, **Scala**, **Kafka**
