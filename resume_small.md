@@ -11,6 +11,13 @@ Combine this creativity with an uncanny knack for abstraction and you get ingeni
 # Work History
 
 <div class="job" markdown="1">
+## Staff Software Engineer, Ancestry Inc.
+### Nov 2022&ndash;March 2024
+Working in the Enterprise Data Management department.
+
+**Java**, **AWS Redshift**, **Apache Spark**, **Scala**, **Kafka**
+
+<div class="job" markdown="1">
 ## Senior Software Engineer, Merit International
 ### May 2022&ndash;August 2022
 Working on the "Platform Team" building back end micro-services
