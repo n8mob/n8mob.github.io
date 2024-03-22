@@ -1,168 +1,170 @@
 body {
-  margin: 4%;
-  max-width: 800px;
-  color: Black;
-  background: #f8f8f8;
+    margin: 4%;
+    max-width: 800px;
+    color: Black;
+    background: #f8f8f8;
 }
 
 a:link {
-  color: FireBrick;
+    color: FireBrick;
 }
 
 a:visited {
-  color: Brown;
+    color: Brown;
 }
 
 a:hover {
-  color: Black;
+    color: Black;
 }
 
 a:active {
-  color: FireBrick;
+    color: FireBrick;
 }
 
 blockquote {
-  font-style: italic;
-  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
-  color: #707070;
+    font-style: italic;
+    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+    color: #707070;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
 }
 
 strong {
-  color: FireBrick;
-  text-transform: uppercase;
-  font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
-  font-weight: normal;
+    color: FireBrick;
+    text-transform: uppercase;
+    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+    font-weight: normal;
 }
 
 table {
-  text-align: left;
-  margin: auto -5% auto -5%
+    text-align: left;
+    margin: auto -5% auto -5%
 }
 
 td {
-  vertical-align: top;
-  font-family: 'sutro', serif;
+    vertical-align: top;
+    font-family: 'sutro', serif;
 }
 
 h1.title {
-  font-size: 300%;
+    font-size: 300%;
 }
 
 h1 {
-  font-size: 200%;
-  font-weight: normal;
-  text-transform: uppercase;
-  max-width: 640px;
-  clear: both;
+    font-size: 200%;
+    font-weight: normal;
+    text-transform: uppercase;
+    max-width: 640px;
+    clear: both;
 }
 
 h2.subtitle {
-  color: FireBrick;
-  font-weight: normal;
-  margin-top: -1.7em;
-  margin-bottom: -0.6em;
+    color: FireBrick;
+    font-weight: normal;
+    margin-top: -1.7em;
+    margin-bottom: -0.6em;
 }
 
 h2 {
-  color: FireBrick;
-  font-size: 130%;
-  font-weight: normal;
-  margin-top: 0.7em;
-  margin-bottom: -0.6em;
+    color: FireBrick;
+    font-size: 130%;
+    font-weight: normal;
+    margin-top: 0.7em;
+    margin-bottom: -0.6em;
 }
 
 h3 {
-  color: #707070;
-  margin-bottom: -0.7em;
-  font-weight: normal;  
+    color: #707070;
+    margin-bottom: -0.7em;
+    font-weight: normal;  
 }
 
 .job h2 {
-  float: left;
-  margin-top: 0.2em;
-  margin-bottom: 0.5em;
+    float: left;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid;
 }
 
 .job h3 {
-  float: right;
-  margin-top: 0.2em;
-  margin-bottom: 0.5em;
+    float: right;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+    page-break-after: avoid
 }
 
 img {
-  max-width: 93%;
-  border: solid black 1.5px;
-  display: block;
-  margin: 4em auto;
-  page-break-inside: avoid;
-  position: relative;
+    max-width: 93%;
+    border: solid black 1.5px;
+    display: block;
+    margin: 4em auto;
+    page-break-inside: avoid;
+    position: relative;
 }
 
 .scale {
-  width: 93%;
+    width: 93%;
 }
 
 li {
-  margin: 1% 1% 1% -2em;
-  font-family: 'sutro', serif;
+    margin: 1% 1% 1% -2em;
+    font-family: 'sutro', serif;
 }
 
 ul.splat {
-  list-style: none;
+    list-style: none;
 }
 
 ul.splat li:before {
-  font-size: 150%;
-  vertical-align: text-top;
-  content: "*   ";
+    font-size: 150%;
+    vertical-align: text-top;
+    content: "*   ";
 }
 
 a.index-link {
-  text-decoration: none;
-  color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 p {
-  font-family: 'sutro', serif;
-  font-size: medium;
-  clear: both;
+    font-family: 'sutro', serif;
+    font-size: medium;
+    clear: both;
 }
 
 .postscript {
-  bottom: 0;
+    bottom: 0;
 }
 
 footer cite {
-  font-size: 70%;
-  margin: 20px;
+    font-size: 70%;
+    margin: 20px;
 }
 
 footer {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 }
 
 footer h2 {
-  text-transform: uppercase
+    text-transform: uppercase
 }
 
 .nav-prev {
-  display: none;
+    display: none;
 }
 
 .nav-next {
-  display: none;
+    display: none;
 }
 
 .subhead {
-  margin-top: -3%;
+    margin-top: -3%;
 }
 
 .contact {
-  color: #404040;
-  margin-top: -5%;
+    color: #404040;
+    margin-top: -5%;
 }
