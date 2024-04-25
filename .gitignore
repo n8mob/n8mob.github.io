@@ -42,3 +42,5 @@ flycheck_*.el
 /server/
 
 _site/
+
+.idea/
