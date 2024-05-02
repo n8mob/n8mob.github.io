@@ -7,9 +7,11 @@ categories: learning, programming
 # Plans fail in multiple ways
 
 
-1. Just, simply failing to follow the plan
-2. Something going wrong with the plan (unforeseen issues)
-3. Tutorials
+1. Just, simply failing to follow the plan  This is usually my problem. Even if I _made_ a plan, I ignore it.
+
+2. Something going wrong with the plan (unforeseen issues)  I make a plan and then some part of it doesn't match reality, so I throw it out the window. Even if the _project_ succeeds, _the plan_ failed.
+
+3. Tutorials  Tutorials are often terrible plans for real projects.
 
 ## Let's create a new app!
 
