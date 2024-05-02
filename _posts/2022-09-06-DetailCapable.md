@@ -17,3 +17,5 @@ But then I saw:
 ## &ldquo;Thoughtless&rdquo;
 
 &ldquo;Thoughtless&rdquo;? _I_ am the _opposite_ of that. I ignore details so that I can think more clearly.
+
+And so I say that while I may not be detail-_oriented_, I **am** detail-_capable_.
