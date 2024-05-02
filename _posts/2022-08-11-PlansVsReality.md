@@ -21,7 +21,7 @@ categories: learning, programming
 
 > I'm going to make a design of what I want!
     
-> Oh, turns out that what I want is (at best) difficult to implement. (And at worst it is incopatible due to some technicality.)
+> Oh, turns out that what I want is (at best) difficult to implement. (And at worst it is incompatible due to some technicality.)
     
 
 
