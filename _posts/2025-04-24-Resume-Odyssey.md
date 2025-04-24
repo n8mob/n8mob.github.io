@@ -66,7 +66,7 @@ So, now I can just look at yesterday's version while going over the job descript
 - **Automation is great—until you're debugging your layout in production**
 - **Git is not a design tool (unless you're very patient)**
 - **People still just want attachments, it's that token thing.**
-- **They invented \*\*\*\* drag-and-drop WYSIWYG for good reason!**
+- **They invented drag-and-drop WYSIWYG for good reason!**
 
 ## Final Thoughts
 
