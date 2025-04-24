@@ -7,6 +7,8 @@ categories:
   - job-search
 ---
 
+![ChatGPT rendering of a stack of my resumes]({{ site.url }}/assets/resume_illustration_chatGpt.png){: .photo }
+
 When I started preparing my résumé for my second wave of jobs after college times, I thought that a web-based résumé would be perfect. It would be modern, elegant, and accessible. I expected people to actually view my résumé on their phone. 
 
 I'm sorry, you want a PDF? Why? So you can *print it?* Are you going to take a stack of these to your recruiting retreat, settle down by the fire, and sip hot chocolate while you look over applicant résumés? I'm applying for software-engineering positions—web developer even.
