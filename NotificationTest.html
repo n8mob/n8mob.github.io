@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Push Notifications</title>
+  </head>
+  <body>
+    <h1 id="h1title">Push Notificatins</h1>
+    <button onclick="notify()">Test Notification</button>
+    <script>
+      function notify() {
+        if (Notification.permission === "granted") {
+          new Notification("Hello from NateGrigg.com!", {
+            body: "This is your test notification.",
+            icon: "https://www.nategrigg.com/icon.png" // optional
+          });
+        } else if (Notification.permission !== "denied") {
+          Notification.requestPermission().then(permission => {
+            if (permission === "granted") {
+              notify(); // call again once permission is granted
+            }
+          });
+        } else {
+          alert("Notifications are blocked.");
+        }
+      }
+    </script>
+  </body>
+</html>
