@@ -11,7 +11,7 @@
         if (Notification.permission === "granted") {
           new Notification("Hello from NateGrigg.com!", {
             body: "This is your test notification.",
-            icon: "https://www.nategrigg.com/icon.png" // optional
+            icon: "https://www.nategrigg.com/favicon.ico" // optional
           });
         } else if (Notification.permission !== "denied") {
           Notification.requestPermission().then(permission => {
