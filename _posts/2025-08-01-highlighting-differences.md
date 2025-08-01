@@ -27,7 +27,7 @@ puzzle?.encoding?.encodeText(...)
 
 ---
 
-### It was an "insertion" not a "change"
+## It was an "insertion" not a "change"
 
 I was using a JetBrains IDE (WebStorm in this case), where the settings are found in:
 
@@ -39,9 +39,7 @@ I made the **Inserted:Important** color brighter. I still have to look closely t
 
 Also: I usually do side-by-side diffs. I'm visual like that. But my AI coding assistant mentioned that I could try the **Unified Diff view**. I tried it afterward and it did help, because it made it easy to see where the characters on the two lines didn't match up.
 
-### 
-
 ---
 
-### The Takeaway
+## The Takeaway
 _*I*_ happened to make this particular change, but we're all using AI tools more and more. In reviewing changes, literally "highlighting differences" is more important than ever.
