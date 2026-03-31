@@ -5,9 +5,6 @@ layout: post
 tags: [systems, testing, data, AI]
 ---
 
-Generating  Realistic Test Data for Database Benchmarks
-===========================================================================
-
 **Part 1 of a series: MongoDB vs. PostgreSQL for Audit Logs**
 
 ---
