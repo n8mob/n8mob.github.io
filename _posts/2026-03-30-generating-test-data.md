@@ -81,13 +81,13 @@ The document-native structure is also what makes the relational mapping non-triv
 
 ---
 
-### Start With Seed Records
+## Start With Seed Records
 
-Rather than generating thousands of random records immediately, I start with a small set of **seed records** — hand-crafted documents that represent realistic examples of your data.
+Rather than generating thousands of random records immediately, I start with a small set of **seed records** — hand-crafted documents that represent realistic examples of the data.
 
-I used four seeds. Each one represents an "entity" (in this case, software models and use cases in a catalog) that has accumulated a history of changes. The events on each seed capture the kinds of field changes you'd actually see: name updates, description edits, status transitions, deployment environment changes.
+I came up with four seeds. Each one represents an "entity" (in this case, software models and use cases in a catalog) that has accumulated a history of changes. The events on each seed capture the kinds of field changes you'd actually see: name updates, description edits, status transitions, deployment environment changes.
 
-### Let an AI Agent Help — But Verify
+## Let an AI Agent Help — But Verify
 
 Once I had the first seed record looking right, I used the Copilot agent in my IDE to update the other three seeds to follow the same structure. This worked well — but with an interesting bonus.
 
@@ -95,7 +95,7 @@ The agent didn't just reformat the data. It also flagged inconsistencies I hadn'
 
 This is worth noting: AI coding assistants aren't just autocomplete. Used as an agent on a structured task like this, they can act as a light code reviewer.
 
-### Write a Check Script
+## Write a Check Script
 
 Before scaling up, write a validation script — a unit test for your data. Mine verified things like:
 
@@ -140,7 +140,7 @@ The counts reflect the distribution I'd expect in production: roughly 70% Model 
 
 ---
 
-### Scale It Up!
+## Scale It Up!
 
 The generation loop iterates over each seed (example record), creates `N` copies with randomized values, and writes them out in batches to a gzipped JSONL file. The structure stays consistent; the content varies. To paraphrase Missy Elliott: put your thing down, randomize it and repeat it! (Dad! Stop!)
 
@@ -192,7 +192,7 @@ The averages held. That's the sign of a healthy generator — the statistical pr
 
 ---
 
-### Scaling to 10 Million Records was "fun"!
+## Scaling to 10 Million Records was "fun"!
 
 Scaling to 10 million entities introduced problems I hadn't anticipated at smaller sizes.
 
@@ -213,7 +213,7 @@ At 10M records, generation was slow but steady: roughly 20,000 records every 4 s
 
 ---
 
-### What You End Up With
+## What You End Up With
 
 By the time you've gone through this process, you have:
 
