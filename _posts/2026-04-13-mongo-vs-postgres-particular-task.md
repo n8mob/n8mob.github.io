@@ -41,7 +41,7 @@ The relative performance ended up staying about the same through 1M, 3M, and 10M
 
     | Records | MongoDB seconds | PostgreSQL seconds  |
     |         | Load   |  Clean | Load     |    Clean |
-    |---------+--------+--------+----------+----------|
+    |---------|--------|--------|----------|----------|
     | 1M      | 117    | 488    | 638      | 105      |
     | 3M      | 189    | 2,400  | 2,382    | 326      |
     | 10M     | 638    | 5,679  | 5,906    | 2,993    |
