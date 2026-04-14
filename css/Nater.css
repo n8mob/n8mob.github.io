@@ -52,7 +52,7 @@ strong {
 
 table {
     text-align: left;
-    margin: auto -5% auto -5%;
+    padding: 15px;
     font-family: var(--font-headline);
 }
 
