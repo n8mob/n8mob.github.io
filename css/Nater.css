@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 strong {
     color: var(--highlight);
     text-transform: uppercase;
-    font-family: var(--font-headline)
+    font-family: var(--font-headline);
     font-weight: normal;
 }
 
