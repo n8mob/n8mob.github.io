@@ -39,13 +39,26 @@ But I ended up skipping the tests on 10k and 100k.
 ### Results
 The relative performance ended up staying about the same through 1M, 3M, and 10M records.
 
-    | Records | MongoDB seconds | PostgreSQL seconds  |
-    |         | Load   |  Clean | Load     |    Clean |
-    |---------|--------|--------|----------|----------|
-    | 1M      | 117    | 488    | 638      | 105      |
-    | 3M      | 189    | 2,400  | 2,382    | 326      |
-    | 10M     | 638    | 5,679  | 5,906    | 2,993    |
-    
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Records</th>
+      <th colspan="2">MongoDB seconds</th>
+      <th colspan="2">PostgreSQL seconds</th>
+    </tr>
+    <tr>
+      <th>Load</th>
+      <th>Clean</th>
+      <th>Load</th>
+      <th>Clean</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1M</td><td>117</td><td>488</td><td>638</td><td>105</td></tr>
+    <tr><td>3M</td><td>189</td><td>2,400</td><td>2,382</td><td>326</td></tr>
+    <tr><td>10M</td><td>638</td><td>5,679</td><td>5,906</td><td>2,993</td></tr>
+  </tbody>
+</table>
     
 > ### A Note
 > I realized that I had failed to create any indexes ("indices" :smirk:). So I re-ran the 3M records after adding an index for `entity_type` in Mongo and `entity_type` on the `entities` table and `entity_id` on the `entity_updates` table.
