@@ -1,40 +1,52 @@
+:root {
+  --font-headline: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+  --font-body:     'sutro', serif;
+
+  --bg: #f8f8f8;
+  --fg: Black;
+  --highlight: FireBrick;
+  --lowlight: Brown;
+  --color-3: #707070;
+}
+
 body {
+    font-family: var(--font-body) serif;
     margin: 4%;
     max-width: 800px;
-    color: Black;
-    background: #f8f8f8;
+    color: var(--fg);
+    background: var(--bg);
 }
 
 a:link {
-    color: FireBrick;
+    color: var(--highlight);
 }
 
 a:visited {
-    color: Brown;
+    color: var(--lowlight);
 }
 
 a:hover {
-    color: Black;
+    color: var(--fg);
 }
 
 a:active {
-    color: FireBrick;
+    color: var(--highlight);
 }
 
 blockquote {
     font-style: italic;
-    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
-    color: #707070;
+    font-family: var(--font-headline);
+    color: var(--color-3);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+    font-family: var(--font-headline)
 }
 
 strong {
-    color: FireBrick;
+    color: var(--highlight);
     text-transform: uppercase;
-    font-family: 'futura-pt', Futura, Calibri, Ubuntu, sans-serif;
+    font-family: var(--font-headline)
     font-weight: normal;
 }
 
@@ -45,7 +57,6 @@ table {
 
 td {
     vertical-align: top;
-    font-family: 'sutro', serif;
 }
 
 h1 {
@@ -56,7 +67,7 @@ h1 {
 }
 
 h2.subtitle {
-    color: FireBrick;
+    color: var(--highlight);
     font-size: 150%;
     font-weight: normal;
     margin-top: -1.7em;
@@ -64,7 +75,7 @@ h2.subtitle {
 }
 
 h2 {
-    color: FireBrick;
+    color: var(--highlight);
     font-size: 150%;
     font-weight: normal;
     margin-top: 2.2em;
@@ -72,9 +83,9 @@ h2 {
 }
 
 h3 {
-    color: #707070;
+    color: var(--color-3);
     margin-bottom: -0.7em;
-    font-weight: normal;  
+    font-weight: normal;
 }
 
 .standalone
@@ -96,7 +107,6 @@ img {
 
 li {
     margin: 1% 1% 1% -2em;
-    font-family: 'sutro', serif;
 }
 
 ul.splat {
@@ -115,7 +125,6 @@ a.index-link {
 }
 
 p {
-    font-family: 'sutro', serif;
     font-size: larger;
     letter-spacing: 0.5px;
 }
