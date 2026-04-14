@@ -72,7 +72,7 @@ So, now I can just look at yesterday's version while going over the job descript
 
 ## Final Thoughts
 
-I still love the idea of a living résumé. But for now? I keep a `.pages` file, a current PDF, and a few +markdown+ org-mode notes.
+I still love the idea of a living résumé. But for now? I keep a `.pages` file, a current PDF, and a few ~~markdown~~ org-mode notes.
 
 And maybe one day... I’ll make Résumé Engine 2.0.
 
