@@ -45,7 +45,7 @@ And now, I feel kind of like my dad did back then. I want to grok all that is go
 
 So, rather than trying to _"skill"_ my way out of my tendency to ramp up slowly (but thoroughly!) Instead I need to lean on my real superpower: big-picture thinking. I've enjoyed "coding" so much that I let it get in the way of the real reason I started my software career in the first place: building applications—products—that are helpful, fun, or both!
 
-> It sounds a bit bizarre
-> But things the way they are
-> I never thought the future where I outsource my own job and change roles and re-think my whole professional identity...
-> would be ***fun*** for me!
+> It sounds a bit bizarre  
+> But things the way they are  
+> I never thought the future where I outsource my own job and change roles and re-think my whole professional identity...  
+> would be ***fun*** for me!  
