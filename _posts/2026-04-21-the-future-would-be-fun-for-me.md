@@ -10,9 +10,11 @@ One of my first AI-coding experiments was porting my [MAGiE puzzle game](https:/
 
 This week, I asked Codex (through JetBrains AI Chat) to build the first draft of a custom on-screen keyboard for the game.
 
-## The request (the "prompt" if you will)
+## The Request (the "prompt" if you will)
 
 Years ago, when we were working on the original Unity implementation of the puzzle game, My friend [Moss](https://www.linkedin.com/in/craig-t-morris-17390a2a/) designed pixel-art keys to make a custom keyboard. Unity doesn't really integrate with the OS like that. It doesn't come with "default controls" for text boxes, etc. So I already had the visual assets ready. I knew that I could spend an enjoyable evening figuring out a system for laying out the keys in rows and positioning each one just so. But, I just knew that the robot could get me started faster. So I just explained where the assets were and asked it to draft the React version of a custom keyboard.
+
+## The Result
 
 It asked me to clarify a couple of implementation details, then, it... implemented the custom keyboard.
 
@@ -21,6 +23,8 @@ As I would have implemented it, I would have started with the layout and visuals
 I mentioned that this whole React app was an experiment with AI coding assistants, but most of the code in the project is mine. So I didn't need any help tracking down the .css file that held some padding. I know how to use the developer tools in the browser to inspect an element and then work backward from the final style to the source files. But, this was the first time that I had asked for so much code at one time. No, wait... it wasn't the first time. But, the first time was such a disaster that I rolled the whole feature back and started again.
 
 So, planning to keep the generated code, I asked the robot where the layout was configured so I could clean up the visuals. The agent pointed me to the few places in the handful of files in which it had implemented the feature. ("Those are the knobs..." it often says.) But it also identified the CSS variable in my existing `App.css` file where the parent element was probably adding the padding that was causing the layout issue.
+
+## The Shift
 
 That was... "impressive" isn't quite the word. Because, I had used AI agents to track down specific items in unfamiliar code bases — even in code bases of unfamiliar languages! So I was pretty confident that it would find the right file and line. But, at the same time I was surprised that I was willing to just _ask_ the robot about my own code. It was partly an experiment. But it was also just, trusting the new tool.
 
@@ -40,6 +44,8 @@ He, being non-fluent in HTML, was discouraged by how quickly we put all that cod
 He said something like, "you guys do that so fast!"
 
 I had to explain, "well, first of all, we're using tools here that speed it up. I type `<` and it suggests some likely HTML tags. Then, when I choose one, it automatically closes the open tag with `>`, adds the closing tag with `</html>`, and puts my cursor in between where it knows I'll be editing next (because we don't need anything _after_ the HTML element). And, after you've done it a hundred times, you'll wiz through it too!"
+
+## The Future
 
 And now, I feel kind of like my dad did back then. I want to grok all that is going on. Until now, that has been the only way for me to be proficient working in a code base. I had to have internalized all the different modules and their relationships before I could be confident enough to dive in and make a modification.
 
