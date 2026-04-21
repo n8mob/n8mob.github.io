@@ -30,7 +30,7 @@ That was... "impressive" isn't quite the word. Because, I had used AI agents to 
 
 When my graphic-designer dad was really designing for the web, my nerdy brothers and I started showing him the relationship between HTML and CSS. Wanting to help him have the basic understanding of how we got where we are, we just coded up a simple, "hello, world" web page. Something like:
 
-    ```html
+    ```
     <html>
       <head><title>Hello, World!</title></head>
       <body>
