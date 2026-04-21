@@ -20,6 +20,8 @@ It asked me to clarify a couple of implementation details, then, it... implement
 
 As I would have implemented it, I would have started with the layout and visuals first, then I would have started hooking up buttons to code. I would have been happy if it had just given me the layout. But it did the whole thing. Like, it totally works. The code is not perfect. You can see, in the screenshot, some gloriously awkward spacing on a small phone screen, but it was far closer to usable than I expected.
 
+![gloriously awkward spacing]({{ site.url }}/assets/keyboard_screenshot_20260421.png){: .photo }
+
 I mentioned that this whole React app was an experiment with AI coding assistants, but most of the code in the project is mine. So I didn't need any help tracking down the .css file that held some padding. I know how to use the developer tools in the browser to inspect an element and then work backward from the final style to the source files. But, this was the first time that I had asked for so much code at one time. No, wait... it wasn't the first time. But, the first time was such a disaster that I rolled the whole feature back and started again.
 
 So, planning to keep the generated code, I asked the robot where the layout was configured so I could clean up the visuals. The agent pointed me to the few places in the handful of files in which it had implemented the feature. ("Those are the knobs..." it often says.) But it also identified the CSS variable in my existing `App.css` file where the parent element was probably adding the padding that was causing the layout issue.
