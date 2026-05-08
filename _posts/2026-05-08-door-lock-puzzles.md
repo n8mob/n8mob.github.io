@@ -1,5 +1,5 @@
 ---
-title: New Feature\: Door Lock Puzzles
+title: "New Feature: Door Lock Puzzles"
 layout: post
 tags: [MAGiE, devlog, gamedev]
 ---
