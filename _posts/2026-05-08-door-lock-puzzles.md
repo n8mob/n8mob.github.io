@@ -4,7 +4,7 @@ layout: post
 tags: [MAGiE, devlog, gamedev]
 ---
 
-And if you've heard me go on and on about MAGiE, you may remember that after implementing the basic game I got stumped for puzzle content. So, I drafted a story about Proti and Hepi, two young teenagers who live in an apartment complex connected to a mall and also to their school.
+If you've heard me go on and on about MAGiE, you may remember that after implementing the basic game I got stumped for puzzle content. So, I drafted a story about Proti and Hepi, two young teenagers who live in an apartment complex connected to a mall and also to their school.
 
 One day, Proti and Hepi were at the mall, a very exciting series of events led to them getting captured by robots and thrown into Mall Jail.
 
