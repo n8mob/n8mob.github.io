@@ -20,7 +20,7 @@ And so, I implemented Door Lock puzzles. My first real, new puzzle type in 6 yea
 
 The puzzle I implemented doesn't match the door locks in the Mall Story exactly. But the story and the game are both works in progress, so, we'll be alright!
 
-![DoorLock puzzle with one bit wrong]({{ site.url }}/assets/DoorLock1_IMG_6067.png){: .photo }
-![DoorLock puzzle solved!]({{ site.url }}/assets/DoorLock2_IMG_6068.png){: .photo }
+![DoorLock puzzle with one bit wrong]({{ site.url }}/assets/DoorLock1.png){: .photo }
+![DoorLock puzzle solved!]({{ site.url }}/assets/DoorLock2.png){: .photo }
 
 You can play it right now! [MAGiEgame.com](https://magiegame.com/doorLock)
